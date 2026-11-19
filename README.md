@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-304-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-307-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 304 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 307 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -233,6 +233,9 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Godlike.host](https://godlike.host/) | VPS with DDoS protection | **40% OFF** (through Nov 30) | ✅ |
 | [Hetzner](https://www.hetzner.com/) | Cloud VPS (EU/US) | No BF sale — already $4.51/mo for 2vCPU/4GB | ℹ️ |
 | [Linode (Akamai)](https://www.linode.com/) | Cloud VPS | $100 free credit / 60 days (standing offer) | ℹ️ |
+| [Contabo](https://contabo.com/) | Cloud VPS (EU/US/Asia) | **20% OFF** all Cloud VPS plans — e.g. 4 vCPU/8GB $5.28/mo (through Nov 30) | ✅ |
+| [DigitalOcean](https://www.digitalocean.com/) | Cloud VPS (Droplets) | $200 free credit / 60 days (standing offer) | ℹ️ |
+| [Vultr](https://www.vultr.com/) | Cloud VPS (17 locations) | $100 free credit / 30 days (standing offer) | ℹ️ |
 
 ### Domains
 
