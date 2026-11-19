@@ -138,6 +138,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Polypane](https://polypane.app/) | Responsive & accessibility testing browser for developers | **25% OFF** all plans (through Dec 1) | ✅ |
 | [Proxyman](https://proxyman.io/) | macOS HTTP debugging proxy for developers | **30% OFF** all plans — code `BF2026` (Nov 19 – Dec 3) | ✅ |
 | [TablePlus](https://tableplus.com/) | Cross-platform database GUI (MySQL, Postgres, Redis, etc.) | **25% OFF** — code `BLACK_FRIDAY_2026` | ✅ |
+| [Akev](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy for macOS, Windows and Linux | **30% OFF** Pro licence · code `BLACKFRIDAY` (Nov 15 - Dec 6) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
