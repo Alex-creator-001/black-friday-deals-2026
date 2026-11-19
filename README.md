@@ -358,7 +358,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Rank Math](https://rankmath.com/) | WordPress SEO plugin | Sale window opened **Oct 28** | ✅ |
 | [Nuelink](https://offer.nuelink.com/mcp/) | Agentic social media scheduling and automation for 12 platforms | **50% OFF** yearly plans (6 months free) / **25% OFF** first 3 monthly payments — code `BFCM26` (Nov 6 – Nov 30) | ✅ |
 | [Outpublished](https://outpublished.com/black-friday) | Shows every page your competitors have that you don't, and tells you the day they publish a new one | **40% OFF** any plan, monthly or yearly, kept while you stay subscribed: Starter $23/mo (was $39), first 150 accounts, no code (Nov 20 – Dec 4) | ✅ |
-| [Keyword Race](https://keywordrace.com/?utm_source=shashankt255bf) | App Store keyword research for indie iOS developers | ♾️ **40% OFF** lifetime, $59 → $35, one payment, no code needed (Nov 20 – Dec 2) | ✅ |
+| [Keyword Race](https://keywordrace.com/) | App Store keyword research for indie iOS developers | ♾️ **40% OFF** lifetime, $59 → $35, one payment, no code needed (Nov 20 – Dec 2) | ✅ |
 | [Ahrefs](https://ahrefs.com/) | SEO toolset | **No Black Friday sale** (never discounts) | ❌ |
 
 ### Productivity & Project Management
