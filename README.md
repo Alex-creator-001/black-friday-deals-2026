@@ -162,6 +162,10 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Hak5](https://hak5.org/pages/hacked-november) | Pentest & red team hardware (WiFi Pineapple, Rubber Ducky, etc.) | BF discounts on pentest gadgets (through Nov 30) | ✅ |
 | [Hexordia](https://learn.hexordia.com/) | DFIR and forensics training | **35% OFF** classes & vouchers — code `26BF35` (Nov 23 – Dec 7) | ✅ |
 | [Iximiuz Labs](https://labs.iximiuz.com/) | Browser-based Linux, containers & Kubernetes playgrounds | Discounted Lifetime and Annual plans (through Nov 30) | ✅ |
+| [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | AI-assisted exploit-development framework with 46,000+ exploits, zero-days, Ghidra, WinDbg and GDB integration. | **20% OFF** (€1,200 → €960); use code `LIFETIME` to upgrade the promotional licence to Lifetime (through Nov 30, 2026) | ✅ |
+| [Control Pack](https://www.exploitpack.com/products/control-pack) | Cross-platform post-exploitation C2 with stealth agents, process migration, tunneling and AI-assisted red-team operations. | **20% OFF** (€1,200 → €960); use code `LIFETIME` to upgrade the promotional licence to Lifetime (through Nov 30, 2026) | ✅ |
+| [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploitation and C2 framework with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | **20% OFF** (€1,200 → €960); use code `LIFETIME` to upgrade the promotional licence to Lifetime (through Nov 30, 2026) | ✅ |
+| [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | All-in-one offensive-security platform combining Exploit Pack, Control Pack and Kernel Pack with integrated AI workflows. | Black Friday bundle **€4,000**, no coupon (through Nov 30, 2026) | ✅ |
 
 ### VPN Services
 
