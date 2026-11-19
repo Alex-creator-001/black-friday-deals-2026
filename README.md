@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-307-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-315-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 307 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 315 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,7 +36,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
-- **Nov 20 (PM)** — Added 7 new deals: DynoTable, JuxtaCode, CostGoat (dev tools), Keeper Security, Malwarebytes (security), Designmodo (design), Parallels Desktop (productivity). 304 total deals.
+- **Nov 20 (PM2)** — Competitor cross-reference (v3nomtech, Pimjo, s1ntoneli): added DevUtils, ShellHistory, TelemetryDeck, HackUtilities (dev tools), ClipAudit, Scanify (security), MuteDeck (productivity). 315 total deals.
+- **Nov 20 (PM)** — Added 7 new deals: DynoTable, JuxtaCode, CostGoat (dev tools), Keeper Security, Malwarebytes (security), Designmodo (design), Parallels Desktop (productivity). 308 total deals.
 - **Nov 20** — Merged 2 community PRs: #29 App14 (No-Code), #30 Exploit Pack suite (4 offensive security tools). Flipped Yubico ⏳→✅ (15% OFF YubiKey series, live now). 297 total deals.
 - **Nov 19 (PM2)** — Cross-ref trungdq88 repo: added Proxyman, TablePlus, Colossyan, PDF Pals, Superlist, Craft, Sip, DeskRest. 294 total deals.
 - **Nov 19 (PM)** — Competitor cross-reference: added 15 deals from InfoSec & dev BF repos (CyberGhost, IPVanish, PureVPN, Proton Mail, Tuta, Yubico, Hak5, Hexordia, Iximiuz Labs, Porkbun, GL.iNet, UGREEN NAS, ByteByteGo, Tailwind Plus, Polypane). 286 total deals.
@@ -113,6 +114,10 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [DynoTable](https://dynotable.com/) | DynamoDB & OpenSearch desktop client | **50% OFF** 12 months — code `BF50` (through Dec 3) | ✅ |
 | [JuxtaCode](https://juxtacode.app/) | Git branch comparison & merge-conflict tool for macOS | **40% OFF** — code `BLACKFRIDAY26` (Nov 20 – Dec 1) | ✅ |
 | [CostGoat](https://costgoat.com/) | AI/cloud/SaaS spend tracking desktop app | **Lifetime $99** (reg $199) — no code needed | ✅ |
+| [DevUtils](https://devutils.com/) | Offline macOS dev toolbox (JSON, Base64, JWT, regex, 40+ tools) | **60% OFF** — code `BLACKFRIDAY` | ✅ |
+| [ShellHistory](https://loshadki.app/shellhistory/) | Search & sync zsh/bash/fish history across Mac + iPhone | **60% OFF** $5.59 (Nov 14 – Dec 1) | ✅ |
+| [TelemetryDeck](https://telemetrydeck.com/) | Privacy-first app analytics (Germany-hosted) | **30% OFF** annual plans | ✅ |
+| [HackUtilities](https://hackutilities.com/) | AI agent workspace (Claude Code, Codex, Gemini CLI) + 46 dev tools | ♾️ **35% OFF** Lifetime — code `BFCM2026` (Nov 26 – Dec 12) | ✅ |
 | [CodedThemes](https://codedthemes.com/) | React/Angular/Vue admin dashboards | **60% OFF** storewide — code `BFCM60` (through Dec 1) | ✅ |
 | [Paperform](https://paperform.co/) | No-code form builder with developer API | **50% OFF** 12 months — code `PFBF26` (Nov 16–30) | ✅ |
 | [RealUptime](https://realuptime.io/pricing) | Uptime monitoring, status pages and error tracking on one plan | **50% OFF for life** for the first 20 customers, then **40% OFF** the first year; automatic, no code (Nov 23 – Nov 30) | ✅ |
@@ -205,6 +210,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Yubico](https://www.yubico.com/store/2026/black-friday-sale/) | YubiKey hardware security keys | **15% OFF** YubiKey 5, Bio & Security Key series — up to 4 keys, auto-applied (through Nov 30) | ✅ |
 | [Keeper Security](https://www.keepersecurity.com/) | Password manager & encrypted vault | **40% OFF** personal plans (through Dec 1) | ✅ |
 | [Malwarebytes](https://www.malwarebytes.com/) | Anti-malware & endpoint protection | **Up to 50% OFF** Premium & Ultimate plans | ✅ |
+| [ClipAudit](https://clipaudit.app/) | macOS clipboard manager that detects 700+ API keys & secrets | **40% OFF** $17.40 — code `BLACKFRIDAY2026` (Nov 27 – Dec 1) | ✅ |
+| [Scanify](https://scanify.app/) | Link, file & QR code security scanner | 💸 **50% OFF** Lifetime | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
@@ -374,6 +381,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [CleanClip](https://pricing.cleanclip.cc/src) | Mac clipboard manager | **30% OFF** — Standard $19.99 → $13.99, Pro $29.99 → $20.99, code `BF2026` (through Dec 15, 2026) | ✅ |
 | [ScreenSage Pro](https://screensage.pro) | Native Mac screen recorder | **Up to 53% OFF** — Pro $149 → $79.90 code `BFS2026P` (46%); Lifetime $449 → $209.90 code `BFS2026L` (53%) (through Dec 15, 2026) | ✅ |
 | [Parallels Desktop](https://www.parallels.com/) | Run Windows on Mac (VM) | **Up to 50% OFF** first year — Standard & Pro editions | ✅ |
+| [MuteDeck](https://mutedeck.com/) | One-press mute/camera/share across Zoom, Teams & Meet | ♾️ **35% OFF** Lifetime — code `BFCM2026` (Nov 26 – Dec 12) | ✅ |
 | [Leave Me Alone](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders, bundle newsletters into a digest | 💸 **83% OFF** Unlimited plan — $59/year instead of $30/month, every inbox you own, same price at renewal, no code (Nov 16 – Dec 8) | ✅ |
 | [DigiCard Pro](https://digicard.pro/?ref=black-friday-deals-2026) | Digital business card for Apple & Google Wallet | **50% OFF** Pro, one-time ($49.99 → $24.99) — code `DIGI50` (Nov 23 – Nov 30) | ⏳ |
 | [Wishbar](https://wishbar.app/black-friday) | Mac menu bar app: type what you want and your own ChatGPT or Claude builds a live widget | **50% OFF** one-time licences, no code needed: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34 (Nov 16 – Dec 7) | ✅ |
