@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-323-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-337-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 323 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 337 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 20 (PM3)** — Competitor cross-reference round 2 (thuongtin, techiescamp, tushargugnani, thoughtcook): added KodeKloud, Udacity, Design Gurus (courses), Linux Foundation certs, DreamHost, HostGator (hosting), Squarespace, Thrive Themes, Windscribe VPN, Internxt, Standard Notes, Runway, GTmetrix, Safe Screen Share. Updated WP Rocket with 3-yr code. 337 total deals.
 - **Nov 20 (PM2)** — Competitor cross-reference (v3nomtech, Pimjo, s1ntoneli): added DevUtils, ShellHistory, TelemetryDeck, HackUtilities (dev tools), ClipAudit, Scanify (security), MuteDeck (productivity). 315 total deals.
 - **Nov 20 (PM)** — Added 7 new deals: DynoTable, JuxtaCode, CostGoat (dev tools), Keeper Security, Malwarebytes (security), Designmodo (design), Parallels Desktop (productivity). 308 total deals.
 - **Nov 20** — Merged 2 community PRs: #29 App14 (No-Code), #30 Exploit Pack suite (4 offensive security tools). Flipped Yubico ⏳→✅ (15% OFF YubiKey series, live now). 297 total deals.
@@ -141,6 +142,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Akev](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy for macOS, Windows and Linux | **30% OFF** Pro licence · code `BLACKFRIDAY` (Nov 15 - Dec 6) | ✅ |
 | [Skillry](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex & Cursor | 💸 ♾️ **50% OFF** Pro ($9.99 first mo / $79 first yr) + **$169** Lifetime (was $249) — auto-applied (Nov 19–30) | ✅ |
 | [Unspam](https://unspam.email/) | Email spam checker & deliverability tests | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
+| [GTmetrix](https://gtmetrix.com/) | Website performance testing & monitoring | **40% OFF** all plans — code `BF2026` (through Dec 2) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -191,6 +193,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [CyberGhost](https://www.cyberghostvpn.com/) | VPN with 11,500+ servers, 100 countries | **83% OFF** 28-month plan — $61.32 total (~$2.19/mo) | ✅ |
 | [IPVanish](https://www.ipvanish.com/) | VPN with unlimited devices | From **$2.19/mo** on 2-year plan | ✅ |
 | [PureVPN](https://www.purevpn.com/) | VPN with 6,500+ servers, 65 countries | **87% OFF** 5-year plan — $101.55 total (~$1.69/mo) | ✅ |
+| [Windscribe](https://windscribe.com/) | VPN with ad/tracker blocking | 💸 **58% OFF** Pro — $29/yr (reg $69), renews at $29 (through Nov 30) | ✅ |
 
 ### Password Managers & Security
 
@@ -215,6 +218,9 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Malwarebytes](https://www.malwarebytes.com/) | Anti-malware & endpoint protection | **Up to 50% OFF** Premium & Ultimate plans | ✅ |
 | [ClipAudit](https://clipaudit.app/) | macOS clipboard manager that detects 700+ API keys & secrets | **40% OFF** $17.40 — code `BLACKFRIDAY2026` (Nov 27 – Dec 1) | ✅ |
 | [Scanify](https://scanify.app/) | Link, file & QR code security scanner | 💸 **50% OFF** Lifetime | ✅ |
+| [Safe Screen Share](https://safescreenshare.com/) | Browser extension that auto-blurs API keys & emails before screen sharing | **40% OFF** Lifetime — code `BF2026` (Nov 13 – Dec 2) | ✅ |
+| [Internxt](https://internxt.com/) | Privacy-first E2E encrypted cloud storage | 💸 **87% OFF** — from €1.29/mo, Lifetime from €247 (through Dec 3) | ✅ |
+| [Standard Notes](https://standardnotes.com/) | E2E encrypted notes app (open source) | 💸 **50% OFF** annual plans | ✅ |
 | [ExposureDrift](https://exposuredrift.com) | Continuous attack surface management: JS secret scanning, outside-in API inventory, exposure monitoring | 💸 **50% OFF** a full year + 15-day risk-free trial — early-user pre-launch offer, launches Dec 14 | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
@@ -233,6 +239,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Hosting.com](https://www.hosting.com/) | Shared/WordPress hosting | **Up to 89% OFF** (Nov 2 – Dec 1) | ✅ |
 | [Bluehost](https://www.bluehost.com/) | Shared/WordPress hosting | **15-25% OFF** 12-month (through Nov 30) | ✅ |
 | [ScalaHosting](https://www.scalahosting.com/) | Managed cloud VPS | **Up to 71% OFF** (through Dec 1) | ✅ |
+| [DreamHost](https://www.dreamhost.com/) | WordPress & VPS hosting | **Up to 75% OFF** shared hosting | ✅ |
+| [HostGator](https://www.hostgator.com/) | Shared & WordPress hosting | **Up to 84% OFF** + free domain | ✅ |
 | [Faivelo](https://faivelo.com/black-friday) | Email hosting for your own domain, unlimited mailboxes | 💸 **80% OFF** — $12/yr instead of $60, first 500 new accounts (through Dec 1) | ✅ |
 | [Static.app](https://static.app/) | Static website hosting | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 
@@ -292,6 +300,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Renderly](https://renderly.video/pricing) | Video rendering API: JSON template and data in, MP4 out | **30% OFF** first payment of Creator or Business - code `BLACKFRIDAY2026` (Nov 27 - Dec 1) | ✅ |
 | [Higgsfield](https://higgsfield.ai/) | AI video generation (Ultra plan) | **60% OFF** annual — $50/mo (reg $129) | ✅ |
 | [Colossyan](https://www.colossyan.com/) | AI video generation with realistic avatars | **40% OFF** yearly — code `BLACKFRIDAY40` | ✅ |
+| [Runway](https://runwayml.com/) | AI video generation & editing | **25% OFF** annual plans | ✅ |
 
 ### AI SEO & Marketing
 
@@ -324,6 +333,9 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud | **30% OFF** — **$69.90** with code `2026BF30` (active now; ends Dec 7) | ✅ |
 | [LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud | **50% OFF** — **$99.90** with code `2026BF50` (active now; ends Dec 7) | ✅ |
 | [CyberWarFare Labs](https://cyberwarfare.live/) | Hands-on cybersecurity training, practical labs, and industry-relevant certifications across Red Team, Blue Team, Cloud Security, AI Security, and more. | **Up to 90% OFF** bundles · Certifications from $5 · Infinity Yearly $49 with 2 free certifications. Coupons: `INFINITY49` (Yearly), `INFINITY5` (Monthly). (Nov 12 – Dec 1, 2026) | ✅ |
+| [KodeKloud](https://kodekloud.com/) | Hands-on DevOps, Kubernetes & cloud labs | 💸 **50% OFF** annual plans | ✅ |
+| [Udacity](https://www.udacity.com/) | Nanodegree programs (cloud, AI, data engineering) | 💸 **Up to 55% OFF** | ✅ |
+| [Design Gurus](https://www.designgurus.io/) | System design & coding interview courses | 💸 **70% OFF** (up to 90% OFF All Courses bundle) | ✅ |
 
 ### Cybersecurity Training
 
@@ -337,6 +349,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | AZ-900 Azure Fundamentals | Microsoft Azure entry cert | 🎓 **$44.99** (reg $99) | ⏳ |
 | CLF-C02 AWS Cloud Practitioner | AWS entry cert | 🎓 **$36.99** (reg $100) | ⏳ |
+| [Linux Foundation](https://training.linuxfoundation.org/) | CKA, CKAD, CKS, LFCS and more | **40% OFF** sitewide — code `40KUBE26CT` | ✅ |
 | [FindExams](https://findexams.com/) | Exam simulators: PMP, CBAP, ITIL 4, more | **Up to 50% OFF** (Nov 16 – Nov 30) | ✅ |
 
 ### Tech Books
@@ -424,6 +437,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Astra](https://wpastra.com/) | Lightweight, fast WP theme | **Up to 47% OFF** (Nov 16 – Dec 6) | ✅ |
 | [ThemeAtelier](https://themeatelier.net/) | Premium WP plugins + themes | **40% OFF** yearly / **60% OFF** lifetime (Nov 6 – Dec 15) | ✅ |
 | Pinnacle Themes | Premium WordPress themes | **Up to 50% OFF** (Nov 1 – Dec 31) | ✅ |
+| [Thrive Themes](https://thrivethemes.com/) | WP themes + conversion-focused tools | **Up to 60% OFF** (through Dec 1) | ✅ |
 | [Elegant Themes / Divi](https://www.elegantthemes.com/) | WP page builder & theme | **Up to 81% OFF** lifetime bundles | ⏳ |
 | [Kadence WP](https://www.kadencewp.com/) | Performance-focused WP theme | **Up to 40% OFF** | ⏳ |
 | [GeneratePress](https://generatepress.com/) | Developer-focused theme | **Up to 25% OFF** | ⏳ |
@@ -432,7 +446,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
-| [WP Rocket](https://wp-rocket.me/) | #1 caching & performance plugin | **40% OFF** all plans (new purchases) | ✅ |
+| [WP Rocket](https://wp-rocket.me/) | #1 caching & performance plugin | **40% OFF** 1-yr — code `black-friday`; **60% OFF** 3-yr — code `black-friday-3y` (through Nov 28) | ✅ |
 | [Rank Math Pro](https://rankmath.com/) | SEO plugin with AI features | **36-55% OFF** Pro/Business/Agency (Nov 13 – Dec 3) | ✅ |
 | [WPManageNinja](https://wpmanageninja.com/) | FluentForms, FluentCRM, Ninja Tables | **Up to 40% OFF** | ✅ |
 | [Bit Apps](https://www.bitapps.pro/) | Premium WordPress plugin suite | **Up to 74% OFF** | ✅ |
@@ -447,6 +461,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | [Dorik](https://dorik.com/) | No-code website builder | **60% OFF** — code `BLACKFRIDAY2026` (Nov 2 – Dec 30) | ✅ |
 | [Pixpa](https://www.pixpa.com/) | Portfolio/website builder | **Up to 55% OFF** — code `BLFPIXPA55` (Nov 27 – Dec 31) | ✅ |
+| [Squarespace](https://www.squarespace.com/) | Website builder & e-commerce | 💸 **55% OFF** select annual plans | ✅ |
 | [Shopify](https://www.shopify.com/) | E-commerce platform | **$1/month** for first 3 months (new stores) | ✅ |
 | [Botsify](https://botsify.com/) | No-code AI agent builder | Lifetime plans from **$399** (Nov 15 – Dec 5) | ✅ |
 | [Omnisend](https://www.omnisend.com/) | Email & SMS for Shopify | **30% OFF** first 3 months | ✅ |
