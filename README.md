@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-315-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-323-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 315 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 323 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -126,7 +126,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Social Fetch](https://www.socialfetch.dev/black-friday) | Public social data API and MCP server (TikTok, Instagram, YouTube, X, Reddit, LinkedIn) | **2x CREDITS** on every plan, automatic at checkout, no code (Nov 19 to Dec 1) | ✅ |
 | [data-peek](https://www.datapeek.dev/pricing) | Keyboard-first SQL client for Postgres, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux | **40% OFF** Pro yearly, $29 → $17.40, auto-applied at checkout (Nov 26 – Dec 1) | ✅ |
 | [Tower](https://www.git-tower.com/) | Professional Git client for Mac & Windows | **50% OFF** new licenses — code `BF2026` | ✅ |
-| [Pulsetic](https://pulsetic.com/) | Uptime monitoring & beautiful status pages | **30% OFF** all plans — code `BF2026` (through Dec 1) | ✅ |
+| [Pulsetic](https://pulsetic.com/) | Uptime monitoring & beautiful status pages | **35% OFF** all plans — code `BLACKFRIDAY35` (through Dec 3) | ✅ |
 | [JSON2Video](https://json2video.com/) | Programmatic video generation API | **25% OFF** first year of yearly plans — code `BF2026PIMJO` (Nov 24 – Dec 1) | ✅ |
 | [Wins](https://wins.cool/) | macOS window management & arrangement | **40% OFF** all plans — code `BF_26` (Nov 11 – Dec 1) | ✅ |
 | [Chronoid](https://www.chronoid.app/) | Time tracking for Mac with auto-categorization | 💸 **50% OFF** Lifetime $149 → $74.50 — code `BLACKFRIDAY26` (Nov 3 – Dec 2) | ✅ |
@@ -139,6 +139,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Proxyman](https://proxyman.io/) | macOS HTTP debugging proxy for developers | **30% OFF** all plans — code `BF2026` (Nov 19 – Dec 3) | ✅ |
 | [TablePlus](https://tableplus.com/) | Cross-platform database GUI (MySQL, Postgres, Redis, etc.) | **25% OFF** — code `BLACK_FRIDAY_2026` | ✅ |
 | [Akev](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy for macOS, Windows and Linux | **30% OFF** Pro licence · code `BLACKFRIDAY` (Nov 15 - Dec 6) | ✅ |
+| [Skillry](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex & Cursor | 💸 ♾️ **50% OFF** Pro ($9.99 first mo / $79 first yr) + **$169** Lifetime (was $249) — auto-applied (Nov 19–30) | ✅ |
+| [Unspam](https://unspam.email/) | Email spam checker & deliverability tests | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -232,6 +234,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Bluehost](https://www.bluehost.com/) | Shared/WordPress hosting | **15-25% OFF** 12-month (through Nov 30) | ✅ |
 | [ScalaHosting](https://www.scalahosting.com/) | Managed cloud VPS | **Up to 71% OFF** (through Dec 1) | ✅ |
 | [Faivelo](https://faivelo.com/black-friday) | Email hosting for your own domain, unlimited mailboxes | 💸 **80% OFF** — $12/yr instead of $60, first 500 new accounts (through Dec 1) | ✅ |
+| [Static.app](https://static.app/) | Static website hosting | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 
 ### VPS & Servers
 
@@ -297,6 +300,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Semrush](https://www.semrush.com/) | SEO & marketing platform | 14-day free trial on Semrush One | ✅ |
 | [Surfer SEO](https://surferseo.com/) | AI-powered on-page SEO | ~30% OFF annual (Nov 23 – Dec 1) | ⏳ |
 | [Scalenut](https://www.scalenut.com/) | AI SEO content platform | **65% OFF** annual plans — no code needed | ✅ |
+| [BizPeel](https://bizpeel.com/pricing) | Verified revenue, traffic, SEO & ad teardowns for 700+ startups (web + MCP) | 💸 **50% OFF** first month + **20% OFF** first year — auto-applied (Nov 19–30) | ✅ |
 
 ### No BF Deal Expected
 
@@ -368,6 +372,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Nuelink](https://offer.nuelink.com/mcp/) | Agentic social media scheduling and automation for 12 platforms | **50% OFF** yearly plans (6 months free) / **25% OFF** first 3 monthly payments — code `BFCM26` (Nov 6 – Nov 30) | ✅ |
 | [Outpublished](https://outpublished.com/black-friday) | Shows every page your competitors have that you don't, and tells you the day they publish a new one | **40% OFF** any plan, monthly or yearly, kept while you stay subscribed: Starter $23/mo (was $39), first 150 accounts, no code (Nov 20 – Dec 4) | ✅ |
 | [Keyword Race](https://keywordrace.com/) | App Store keyword research for indie iOS developers | ♾️ **40% OFF** lifetime, $59 → $35, one payment, no code needed (Nov 20 – Dec 2) | ✅ |
+| [HeySummit](https://heysummit.com/pricing) | Host workshops & virtual summits | **40% OFF** first year annual — code `V3UlY3Iz` (Nov 19–30) | ✅ |
+| [HeyStream](https://heystream.com/pricing) | Branded live webinars & broadcasts | **40% OFF** first year annual — code `BF2026` (Nov 19–30) | ✅ |
 | [Ahrefs](https://ahrefs.com/) | SEO toolset | **No Black Friday sale** (never discounts) | ❌ |
 
 ### Productivity & Project Management
@@ -447,6 +453,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Webflow](https://webflow.com/) | Visual web development | **Up to 50% OFF** annual | ⏳ |
 | [Framer](https://www.framer.com/) | Design-to-code website builder | 3 free months on annual Pro | ⏳ |
 | [Bubble](https://bubble.io/) | No-code full-stack builder | Discount expected | ⏳ |
+| [Siter.io](https://siter.io/) | No-code website builder with visual editor | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 | [App14](https://app14.appetite.studio/black-friday) | Done-for-you custom iOS & Android app, built and submitted in 14 days 🇬🇧 | **75% OFF** — Starter £3,999 → £999, Advanced £6,999 → £1,999, no code needed (until Nov 30) | ✅ |
 
 ## 🎮 Gaming
