@@ -424,7 +424,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Webflow](https://webflow.com/) | Visual web development | **Up to 50% OFF** annual | ⏳ |
 | [Framer](https://www.framer.com/) | Design-to-code website builder | 3 free months on annual Pro | ⏳ |
 | [Bubble](https://bubble.io/) | No-code full-stack builder | Discount expected | ⏳ |
-| [App14](https://app14.appetite.studio/black-friday?utm_source=bf-deals-2026&utm_medium=github&utm_campaign=bfcm2026) | Done-for-you custom iOS & Android app, built and submitted in 14 days 🇬🇧 | **75% OFF** — Starter £3,999 → £999, Advanced £6,999 → £1,999, no code needed (until Nov 30) | ✅ |
+| [App14](https://app14.appetite.studio/black-friday) | Done-for-you custom iOS & Android app, built and submitted in 14 days 🇬🇧 | **75% OFF** — Starter £3,999 → £999, Advanced £6,999 → £1,999, no code needed (until Nov 30) | ✅ |
 
 ## 🎮 Gaming
 
