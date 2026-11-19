@@ -213,6 +213,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Malwarebytes](https://www.malwarebytes.com/) | Anti-malware & endpoint protection | **Up to 50% OFF** Premium & Ultimate plans | ✅ |
 | [ClipAudit](https://clipaudit.app/) | macOS clipboard manager that detects 700+ API keys & secrets | **40% OFF** $17.40 — code `BLACKFRIDAY2026` (Nov 27 – Dec 1) | ✅ |
 | [Scanify](https://scanify.app/) | Link, file & QR code security scanner | 💸 **50% OFF** Lifetime | ✅ |
+| [ExposureDrift](https://exposuredrift.com) | Continuous attack surface management: JS secret scanning, outside-in API inventory, exposure monitoring | 💸 **50% OFF** a full year + 15-day risk-free trial — early-user pre-launch offer, launches Dec 14 | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
