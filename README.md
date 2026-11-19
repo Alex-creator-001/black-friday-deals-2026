@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2019%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-294-blue)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-297-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 294 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 297 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 20** — Merged 2 community PRs: #29 App14 (No-Code), #30 Exploit Pack suite (4 offensive security tools). Flipped Yubico ⏳→✅ (15% OFF YubiKey series, live now). 297 total deals.
 - **Nov 19 (PM2)** — Cross-ref trungdq88 repo: added Proxyman, TablePlus, Colossyan, PDF Pals, Superlist, Craft, Sip, DeskRest. 294 total deals.
 - **Nov 19 (PM)** — Competitor cross-reference: added 15 deals from InfoSec & dev BF repos (CyberGhost, IPVanish, PureVPN, Proton Mail, Tuta, Yubico, Hak5, Hexordia, Iximiuz Labs, Porkbun, GL.iNet, UGREEN NAS, ByteByteGo, Tailwind Plus, Polypane). 286 total deals.
 - **Nov 19 (AM2)** — Merged 3 community PRs: Relaybrook, Dar Templates, BundleWP. Flipped Educative.io ⏳→✅ (BF sale confirmed live). Added OffSec Learn One (20% OFF OSCP+ training). 272 total deals.
@@ -197,7 +198,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Noviscan](https://secufor.net/black-week/) | Face recognition for IP cameras, analysed locally (Win/Mac/Linux) | **30-day free trial** of Premium — code `BLACKFRIDAY26` (Nov 23 – Nov 30) | ✅ |
 | [Proton Mail](https://proton.me/mail/black-friday) | E2E encrypted email & calendar (Swiss) | **50% OFF** annual subscription (through Nov 30) | ✅ |
 | [Tuta](https://tuta.com/black-friday) | E2E encrypted email & calendar (Germany) | **12 months free** on Revolutionary/Legend plans — 2 for 1 (through Nov 30) | ✅ |
-| [Yubico](https://www.yubico.com/) | YubiKey hardware security keys | Sale starts Nov 19 (through Nov 30) | ⏳ |
+| [Yubico](https://www.yubico.com/store/2026/black-friday-sale/) | YubiKey hardware security keys | **15% OFF** YubiKey 5, Bio & Security Key series — up to 4 keys, auto-applied (through Nov 30) | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
