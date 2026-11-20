@@ -484,7 +484,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | [PlayStation Store](https://www.playstation.com/en-us/deals/) | Up to 75% off PS5/PS4 games | Live **Nov 4–30** | ✅ |
 | [Steam](https://store.steampowered.com/specials) | Autumn Sale ended Oct 8; no BF storewide sale | **Winter Sale Dec 17 – Jan 4** | ℹ️ |
-| Xbox / PC Game Deals | Up to 75% off console, 85% off PC | Late Nov (~Nov 20–Dec 3) | ⏳ |
+| [Xbox / PC Game Deals](https://www.xbox.com/en-US/promotions/sales/black-friday) | 2,000+ games up to 80% off (console + PC) | **Up to 80% OFF** — live Nov 19, through Dec 2; more deals Nov 23 | ✅ |
 | [GOG.com](https://www.gog.com/) | DRM-free PC games, up to 90% off | Late Nov (TBA) | ⏳ |
 | [Epic Games Store](https://store.epicgames.com/) | Epic Savings + BF Premium Editions | **Up to 80% OFF** — Epic Savings (Nov 12–26) + Premium Editions (Nov 17–Dec 1) | ✅ |
 
