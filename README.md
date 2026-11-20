@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-381-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-382-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 381 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 382 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -156,6 +156,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [1DevTool](https://1devtool.com/) | Desktop workbench for AI coding agents (Claude Code, Codex, Gemini CLI) | 💸 **50% OFF** one-time $29 → $14.50 — code `BFDEALS50` (Nov 19 – Nov 29) | ✅ |
 | [Device MCP](https://devicemcp.ai/) | Mirror & control iPhone/iPad from Mac with MCP tools for AI agents | **30% OFF** — code `BF2026` (Nov 19 – Dec 3) | ✅ |
 | [APIKO](https://apiko.app/) | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | **10% extra API credits on every paid top-up** — pay $100, get $110 in credits, auto-applied. Ends Nov 27, 2026 at 11:59 p.m. Pacific Time. | ✅ |
+| [Toplify](https://toplify.app/) | App Store chart position tracker across 175 countries (Mac & iOS) | 💸 ♾️ **44% OFF** Lifetime $89.99 → $49.99 — code `BLKFR2026` (Nov 15 – Dec 1) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
