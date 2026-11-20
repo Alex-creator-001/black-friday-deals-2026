@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-462-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-476-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 462 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 476 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -201,7 +201,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [The SecOps Group](https://secops-group.io/) | Pentesting certification exams | **90% OFF** exams — code `BF-90` | ✅ |
 | [pwn.guide](https://pwn.guide/) | Ethical hacking + CompTIA prep | **20% OFF** all plans incl. lifetime — code `BLKFRI20` (ends Dec 5) | ✅ |
 | [VantagePoint](https://vantagepointsec.com/) | Hacking labs and certifications | **70% OFF** all labs & certs (Nov 2 – Dec 15) | ✅ |
-| [INE Security](https://ine.com/) | Pentesting, blue team, cloud security | **~50% OFF** Premium (sale starts Nov 20) | ⏳ |
+| [INE Security](https://ine.com/) | Pentesting, blue team, cloud security | **~37% OFF** Premium annual $499 (reg $799, Nov 20 – Dec 1) | ✅ |
 | [HackTheBox](https://www.hackthebox.com/) | Pentesting labs & Academy | **25-40% OFF** annual plans | ⏳ |
 | [TryHackMe](https://tryhackme.com/) | Beginner-friendly cyber training | **~40% OFF** annual | ⏳ |
 | [TCM Security](https://academy.tcm-sec.com/) | Practical ethical hacking courses | **20% OFF** certifications & live training, 💸 **50% OFF** Academy membership | ✅ |
@@ -229,6 +229,9 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploitation and C2 framework with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | **20% OFF** (€1,200 → €960); use code `LIFETIME` to upgrade the promotional licence to Lifetime (through Nov 30, 2026) | ✅ |
 | [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | All-in-one offensive-security platform combining Exploit Pack, Control Pack and Kernel Pack with integrated AI workflows. | Black Friday bundle **€4,000**, no coupon (through Nov 30, 2026) | ✅ |
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing) | Hands-on AI security labs (LLM, RAG, agents, MCP) | **40% OFF** 4-Month Pass and first year of the yearly plan — auto-applied, code `BLACKFRIDAY40` (Nov 17 – Nov 30) | ✅ |
+| [PwnedLabs](https://pwnedlabs.io/) | Cloud security bootcamps & lab subscriptions (ACRTP, MCRTP, GCRTP) | **25% OFF** bootcamps & subscriptions — code `BLACKFRIDAY25` (through Nov 30) | ✅ |
+| [Red Team LLC](https://redteam.vip/) | Physical entry, RFID, social engineering & recon courses | **Founding Member $99/course** (reg $199–$399), all 10 courses $799 (through Nov 30) | ✅ |
+| [KSEC Labs](https://labs.ksec.co.uk/black-friday-sale/) | RFID tools, lock picking kits & pentest hardware 🇬🇧 | **Up to £300 off**, 3-for-2 RFID cards (Nov 23–30) | ✅ |
 
 ### VPN Services
 
@@ -279,6 +282,10 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [SaaSecure](https://saasecure.dev/) | SaaS security posture management | 💸 **50% OFF** Lifetime | ✅ |
 | [AdGuard Family Plan](https://adguard.com/) | Ad blocker & privacy protection | 💸 **91% OFF** lifetime $14.97 (reg $169.99) | ✅ |
 | [pCloud](https://www.pcloud.com/) | E2E encrypted cloud storage (Swiss) | 💸 **Up to 62% OFF** Lifetime plans | ✅ |
+| [Burp Bounty Server](https://bountysecurity.ai/pages/burp-bounty-server) | Standalone Go vulnerability scanner with REST API & MCP integration | **40% OFF** first year — code `BLACKFRIDAY26` (through Dec 3) | ✅ |
+| [AdverseMonitor](https://adversemonitor.com/black-friday) | Threat intelligence platform for MSSPs | **40–60% OFF** first year of yearly plans, auto-applied (through Nov 30) | ✅ |
+| [DeleteMe](https://joindeleteme.com/) | Data broker removal & privacy service | **20% OFF** — code `BFCM2026` (through Nov 30) | ✅ |
+| [Incogni](https://incogni.com/) | Data broker removal service | 💸 **58% OFF** annual — code `BFCM26` (through Dec 4) | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
@@ -325,6 +332,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Cloudflare Registrar](https://www.cloudflare.com/) | Domains at wholesale cost | No sale — always at cost ($11.17 .com) | ℹ️ |
 | [Koofr](https://koofr.eu/) | EU privacy-focused cloud storage (GDPR) | **55% OFF** — code `BF2026` | ✅ |
 | [Porkbun](https://porkbun.com/) | Domain registrar with rolling BF deals | New deal drops Nov 19, 23, 27 (through Dec 4) | ✅ |
+| [Spaceship](https://www.spaceship.com/) | .com domains $3.60 first year (low renewal ~$10.68) | 💸 **67% OFF** .com — code `COM67` (Nov 2 – Dec 4) | ✅ |
 
 ## 🤖 AI & ML Tools
 
@@ -692,10 +700,16 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
-| Ubiquiti UniFi | Gateways, switches, APs, cameras | Free shipping + price cuts expected | ⏳ |
+| [Ubiquiti UniFi](https://store.ui.com/) | Gateways, switches, APs, cameras | BF discounts live now (through Nov 30) | ✅ |
 | Synology DS923+ | 4-bay NAS | ~$480 (street ~$570) | ⏳ |
 | [GL.iNet](https://www.gl-inet.com/) | OpenWrt travel routers & VPN gateways | **Up to 20% OFF** (Nov 19 – Nov 30) | ✅ |
 | [UGREEN NAS](https://ai.ugreen.com/) | NAS devices with AI features | **Up to 31% OFF** NAS, 32% OFF NAS+UPS bundles (through Nov 30) | ✅ |
+| [Minis Forum](https://store.minisforum.com/) | Compact mini PCs for homelabs & dev workstations | Daily rotating BF discounts (Nov 11–30) | ✅ |
+| [Geekom](https://www.geekompc.com/) | Mini PCs for homelabs & compact desktops | Daily rotating BF discounts (through Dec 1) | ✅ |
+| [Arduino](https://store-usa.arduino.cc/) | Microcontroller boards & IoT kits | Daily rotating BF discounts (through Nov 30) | ✅ |
+| [SparkFun](https://www.sparkfun.com/) | Electronics dev boards, GNSS & IoT kits | **15% OFF** SparkFun Originals — code `BFCM2026` (Nov 23–30) | ✅ |
+| [Bambu Lab](https://us.store.bambulab.com/) | 3D printers (P1S, X1E, A1 series) | BF pricing on all printers (through Dec 1) | ✅ |
+| [Prusa](https://www.prusa3d.com/) | 3D printers & filament | **Up to 40% OFF** Prusament + free gifts with printers (through Nov 30) | ✅ |
 
 ## 💰 Finance & Business
 
