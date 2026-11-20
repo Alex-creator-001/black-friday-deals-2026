@@ -363,6 +363,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Vinaa](https://www.vinaa.ai/) | AI video editor with auto-caption, translate & lip-sync | **45% OFF** lifetime, no code (until Nov 30) | ✅ |
 | [Cutfac](https://cutfac.com/) | Create & refine short videos with Claude Code or Codex on Mac | **40% OFF** one-time — code `BF2026` (through Dec 31) | ✅ |
 | [quso.ai](https://quso.ai/pricing) | AI video repurposing: long videos into captioned short clips, schedule & auto-post | 💸 **50% OFF** yearly plans, kept every renewal — no code (Nov 20 – Dec 1) | ✅ |
+| [YIX](https://yix.ai/pricing) | Create and edit images and generate videos from text or photos | 💸 **50% OFF** first month on monthly plans, auto-applied — Starter $19.90 → $9.95/mo, Pro $49.90 → $24.95/mo (Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
