@@ -36,17 +36,17 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
-- **Nov 20 (PM5)** — Competitor cross-reference round 3 (trungdq88, twf-nikhila, tubeagentkit, v3nomtech): added 25 deals including 1bench, Fixa, Karve, Perch (dev tools), AppSecD, PortDroid, TinyShield (security), Pixara, Krea3 AI, RewriteBar, Podwise (AI), ZxClip, Roomtape, MotionShine (productivity), Plerdy (SEO), Sender (email), Inkfree (eSignature), more. Flipped Wireshark Labs + Xbox ⏳→✅. Updated ElevenLabs deal. 372 total deals.
+- **Nov 20 (PM5)** — Added 25 new deals: 1bench, Fixa, Karve, Perch (dev tools), AppSecD, PortDroid, TinyShield (security), Pixara, Krea3 AI, RewriteBar, Podwise (AI), ZxClip, Roomtape, MotionShine (productivity), Plerdy (SEO), Sender (email), Inkfree (eSignature), more. Flipped Wireshark Labs + Xbox ⏳→✅. Updated ElevenLabs deal. 372 total deals.
 - **Nov 20 (PM4)** — Merged 7 community PRs (#38–#44): Devkito (dev tools), SecretShot (privacy), TranslateManga (AI), 3DRoomDesign.ai (design), Sabi (CRM), Oil Studio + Deletti (photo/video), Nutrify + Nomu + Meanwhile (wellness). 347 total deals.
-- **Nov 20 (PM3)** — Competitor cross-reference round 2 (thuongtin, techiescamp, tushargugnani, thoughtcook): added KodeKloud, Udacity, Design Gurus (courses), Linux Foundation certs, DreamHost, HostGator (hosting), Squarespace, Thrive Themes, Windscribe VPN, Internxt, Standard Notes, Runway, GTmetrix, Safe Screen Share. Updated WP Rocket with 3-yr code. 337 total deals.
-- **Nov 20 (PM2)** — Competitor cross-reference (v3nomtech, Pimjo, s1ntoneli): added DevUtils, ShellHistory, TelemetryDeck, HackUtilities (dev tools), ClipAudit, Scanify (security), MuteDeck (productivity). 315 total deals.
+- **Nov 20 (PM3)** — Added KodeKloud, Udacity, Design Gurus (courses), Linux Foundation certs, DreamHost, HostGator (hosting), Squarespace, Thrive Themes, Windscribe VPN, Internxt, Standard Notes, Runway, GTmetrix, Safe Screen Share. Updated WP Rocket with 3-yr code. 337 total deals.
+- **Nov 20 (PM2)** — Added DevUtils, ShellHistory, TelemetryDeck, HackUtilities (dev tools), ClipAudit, Scanify (security), MuteDeck (productivity). 315 total deals.
 - **Nov 20 (PM)** — Added 7 new deals: DynoTable, JuxtaCode, CostGoat (dev tools), Keeper Security, Malwarebytes (security), Designmodo (design), Parallels Desktop (productivity). 308 total deals.
 - **Nov 20** — Merged 2 community PRs: #29 App14 (No-Code), #30 Exploit Pack suite (4 offensive security tools). Flipped Yubico ⏳→✅ (15% OFF YubiKey series, live now). 297 total deals.
-- **Nov 19 (PM2)** — Cross-ref trungdq88 repo: added Proxyman, TablePlus, Colossyan, PDF Pals, Superlist, Craft, Sip, DeskRest. 294 total deals.
-- **Nov 19 (PM)** — Competitor cross-reference: added 15 deals from InfoSec & dev BF repos (CyberGhost, IPVanish, PureVPN, Proton Mail, Tuta, Yubico, Hak5, Hexordia, Iximiuz Labs, Porkbun, GL.iNet, UGREEN NAS, ByteByteGo, Tailwind Plus, Polypane). 286 total deals.
+- **Nov 19 (PM2)** — Added Proxyman, TablePlus, Colossyan, PDF Pals, Superlist, Craft, Sip, DeskRest. 294 total deals.
+- **Nov 19 (PM)** — Added 15 new deals: CyberGhost, IPVanish, PureVPN, Proton Mail, Tuta, Yubico, Hak5, Hexordia, Iximiuz Labs, Porkbun, GL.iNet, UGREEN NAS, ByteByteGo, Tailwind Plus, Polypane. 286 total deals.
 - **Nov 19 (AM2)** — Merged 3 community PRs: Relaybrook, Dar Templates, BundleWP. Flipped Educative.io ⏳→✅ (BF sale confirmed live). Added OffSec Learn One (20% OFF OSCP+ training). 272 total deals.
 - **Nov 19** — Big update pass: flipped 5 deals ⏳→✅ (DataCamp 60% OFF, Scalenut 65% OFF, Pictory 50% OFF, CodedThemes 60% OFF, Ableton 20% OFF + free Live 13 upgrade). Added 7 new deals: Abstract API, FormBold, DocuGenerate, Higgsfield, Coupler.io, 1minAI. Updated Whoop details. Amazon & Best Buy BF events now live. 266 total deals.
-- **Nov 18** — Merged 4 community PRs + 7 new deals from competitor cross-reference (Tower, Pulsetic, JSON2Video, Wins, Chronoid, AI Toolbox, Atmos). Added region filters (🇺🇸 🇬🇧 🇮🇳 🇨🇦 🇪🇺 🇩🇪 🇦🇺) and student 🎓 filter to website. Flipped ⏳→✅: Nintendo Switch 2 bundle, Garmin Forerunner 265. Deduplicated 11 entries appearing in multiple categories. 260 total deals.
+- **Nov 18** — Merged 4 community PRs + added 7 new deals (Tower, Pulsetic, JSON2Video, Wins, Chronoid, AI Toolbox, Atmos). Added region filters (🇺🇸 🇬🇧 🇮🇳 🇨🇦 🇪🇺 🇩🇪 🇦🇺) and student 🎓 filter to website. Flipped ⏳→✅: Nintendo Switch 2 bundle, Garmin Forerunner 265. Deduplicated 11 entries appearing in multiple categories. 260 total deals.
 - **Nov 17** — 13 cybersec training deals added: CyberWarFare Labs (91% OFF!), Blue Cape Security, MalDev Academy, HackTricks Training, Practical TLS (83% OFF lifetime), Wireshark Labs, White Knight Labs, RedTeamLeaders, Blu Raven Academy, Just Hacking, OnlySecurity, Modern Security AI Cert + Nintendo Switch 2 bundle
 - **Nov 17** — 5 community PRs merged: Perisclaw, Outpublished, Faivelo, Refine, Paste
 - **Nov 17** — Adobe Creative Cloud BF sale confirmed: 57% OFF All Apps ($29.99/mo first year)
@@ -54,7 +54,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 - **Nov 17** — QuickBooks 70% OFF confirmed, Paramount+ 50% OFF annual with code `SAVEANNUAL50`
 - **Nov 17** — TCM Security sale live: 20% OFF certs, 50% OFF Academy membership
 - **Nov 17** — AirPods Pro 3 now $179 ($70 off), Apple Watch Series 12 from $329
-- **Nov 15** — 16 new deals added from cross-referencing competitor repos: TypingMind, BoltAI, MindPal, Rezi, Proxyman, SaaSykit, Piloterr, Poedit, Wireless Operator, AppSec.training, Vibe App Scanner, anon.li, Koofr, FindExams, LS Graphics, Lineicons
+- **Nov 15** — 16 new deals added: TypingMind, BoltAI, MindPal, Rezi, Proxyman, SaaSykit, Piloterr, Poedit, Wireless Operator, AppSec.training, Vibe App Scanner, anon.li, Koofr, FindExams, LS Graphics, Lineicons
 - **Nov 15** — OffSeq security suite (5 tools) and SaaSBold confirmed live
 - **Nov 15** — 3 community deals merged: Wovo (50% OFF), CleanClip (30% OFF), ScreenSage Pro (up to 53% OFF)
 - **Nov 15** — Topaz Labs Black Friday sale confirmed live: up to 67% OFF bundles, 15% OFF annual single-app plans (through Dec 1)
