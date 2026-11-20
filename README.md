@@ -154,6 +154,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension for web devs: inspect, edit, test, debug | ♾️ **30% OFF** Lifetime $99 → $69.30 (Nov 20+) | ✅ |
 | [1DevTool](https://1devtool.com/) | Desktop workbench for AI coding agents (Claude Code, Codex, Gemini CLI) | 💸 **50% OFF** one-time $29 → $14.50 — code `BFDEALS50` (Nov 19 – Nov 29) | ✅ |
 | [Device MCP](https://devicemcp.ai/) | Mirror & control iPhone/iPad from Mac with MCP tools for AI agents | **30% OFF** — code `BF2026` (Nov 19 – Dec 3) | ✅ |
+| [TeaGo](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) | Browse repositories, review pull requests, and track issues on self-hosted Gitea or Forgejo from iPhone and iPad | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary) — code `ARTSVITBF20` (through Nov 30 Pacific) | ✅ |
+| [Open Pi - Raspberry Pi Manager](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) | Monitor Raspberry Pi health and manage Docker, files, GPIO, and SSH from Mac, iPhone or iPad | **About 20% OFF** Single Lifetime (US$5.99 → US$4.79; local prices vary) — code `ARTSVITBF20` (through Nov 30 Pacific) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -401,6 +403,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Sip](https://sipapp.io/) | macOS color picker for designers & developers | **50% OFF** — code `BLACKFRIDAY26` (Nov 27 – Nov 29) | ✅ |
 | [Designmodo](https://designmodo.com/) | Email & web design platform (Postcards, Slides) | **Up to 40% OFF** — code `BLACKFRIDAY35` (through Dec 3) | ✅ |
 | [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | AI interior design — draw floor plans, convert to 3D, visualize rooms | **50% bonus credits** on one-time packs + **up to 300 extra credits** first month for new subscribers, auto-applied (Nov 17–27) | ✅ |
+| [Paletteo](https://apps.apple.com/redeem?ctx=offercodes&id=6762087665&code=ARTSVITBF20) | Capture colors, build palettes and gradients, and export design tokens from iPhone or iPad | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary) — code `ARTSVITBF20` (through Nov 30 Pacific) | ✅ |
 
 ### SEO & Marketing
 
