@@ -213,6 +213,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Control Pack](https://www.exploitpack.com/products/control-pack) | Cross-platform post-exploitation C2 with stealth agents, process migration, tunneling and AI-assisted red-team operations. | **20% OFF** (€1,200 → €960); use code `LIFETIME` to upgrade the promotional licence to Lifetime (through Nov 30, 2026) | ✅ |
 | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploitation and C2 framework with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | **20% OFF** (€1,200 → €960); use code `LIFETIME` to upgrade the promotional licence to Lifetime (through Nov 30, 2026) | ✅ |
 | [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | All-in-one offensive-security platform combining Exploit Pack, Control Pack and Kernel Pack with integrated AI workflows. | Black Friday bundle **€4,000**, no coupon (through Nov 30, 2026) | ✅ |
+| [GenAI Security Lab](https://genaisecuritylab.com/pricing) | Hands-on AI security labs (LLM, RAG, agents, MCP) | **40% OFF** 4-Month Pass and first year of the yearly plan — auto-applied, code `BLACKFRIDAY40` (Nov 17 – Nov 30) | ✅ |
 
 ### VPN Services
 
