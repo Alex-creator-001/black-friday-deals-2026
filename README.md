@@ -309,6 +309,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Perisclaw](https://perisclaw.com/pricing) | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks | **40% OFF** annual plan ($200 → $120/yr), no code needed (Nov 27 – Dec 1) | ⏳ |
 | [1minAI](https://1min.ai/) | Multi-model AI platform (GPT, Claude, Gemini) | 💸 **86% OFF** Advanced Business Lifetime | ✅ |
 | [PDF Pals](https://pdfpals.com/) | AI-powered PDF reader and chat | ♾️ **Lifetime $149**; 20% OFF Basic/Plus — code `BF20` | ✅ |
+| [FastScribe](https://fastscribe.org/pricing) | Web app for audio/video and social-link transcription, subtitles and AI summaries. | **$31 off** Pro first year: $89 (normally $120/year), then $120/year; 6,500 bonus credits valid 365 days. Accounts without an active subscription only; no code needed. (Nov 17–30, 2026; ends 11:59 PM Pacific) | ✅ |
 
 ### AI Image & Video
 
