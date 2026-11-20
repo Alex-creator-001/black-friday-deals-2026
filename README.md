@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-372-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-374-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 372 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 374 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -320,6 +320,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Higgsfield](https://higgsfield.ai/) | AI video generation (Ultra plan) | **60% OFF** annual — $50/mo (reg $129) | ✅ |
 | [Colossyan](https://www.colossyan.com/) | AI video generation with realistic avatars | **40% OFF** yearly — code `BLACKFRIDAY40` | ✅ |
 | [Runway](https://runwayml.com/) | AI video generation & editing | **25% OFF** annual plans | ✅ |
+| [Effect Video](https://effect.video/black-friday) | AI photo-to-video effects: turn photos into cinematic videos with 29+ templates | **+50% bonus credits** on credit packs and annual plans, auto-applied (Nov 24 – Dec 1) | ✅ |
 | [TranslateManga](https://translatemanga.net/) | AI manga/manhwa/webtoon translator — text inside original speech bubbles (web + Chrome extension) | **40% OFF** plans from $6/mo, no code (billed yearly, first year; Nov 20 – Dec 1) | ✅ |
 | [Pixara](https://www.pixara.ai/) | AI image, video & voiceover workspace (multi-model) | 💸 **70% OFF** PRO & Ultimate annual | ✅ |
 | [Krea3 AI](https://krea3.org/) | AI portraits, product shots & posters from prompts/photos | **40% OFF** first year (Starter $149 → $89.40) (Nov 1 – Nov 30) | ✅ |
@@ -718,6 +719,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Nutrify](https://nutrifytracker.com/) | AI calorie tracker — snap a photo to log calories & macros (iPhone + Android) | 💸 **60% OFF** first year ($49.99 → $19.99) · Lifetime $79 (reg $99), no code (Nov 20 – Dec 30) | ✅ |
 | [Nomu](https://www.tappect.com/get/nomu) | Intermittent fasting timer — 16:8, 18:6, OMAD (iPhone, Apple Watch, Android) | **57% OFF** first year ($29.99 → $12.99) · Lifetime $29.99 (reg $49.99), no code (Nov 20 – Dec 30) | ✅ |
 | [Meanwhile](https://www.tappect.com/get/meanwhile) | Couple & BFF photo widget — share a photo each hour on each other's home screen | 💸 **Up to 84% OFF** first year Pro (from $7.99, reg $49.99) — Early Supporter offer (until Dec 31) | ✅ |
+| [Read My Dream](https://readmydream.com/plus) | Dream journal with AI dream readings (web) | 💸 **50% OFF** first year or month of Plus ($39.99 → $19.99/yr), no code (Nov 20 – Dec 1) | ✅ |
 
 ---
 
