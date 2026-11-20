@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-553-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-556-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 553 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 556 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -210,6 +210,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Plain text editor for iPhone & iPad | 💸 **50% OFF** $9.99 → $4.99 | ✅ |
 | [SQLPro Studio](https://apps.apple.com/us/app/sqlpro-studio/id985614903) | Multi-database management tool for Mac | 💸 **Up to 50% OFF** | ✅ |
 | [Aba Search and Replace](https://www.abareplace.com/) | Find & replace across files with regex support (Windows) | 💸 ♾️ **50% OFF** Lifetime $30 → $15 — code `Sale2026` | ✅ |
+| [Appfigures](https://appfigures.com/) | ASO & app intelligence for App Store & Google Play: competitor keywords, download & revenue estimates | 💸 **50% OFF** monthly or annual plans for 12 months — code `BF2650` (Nov 23 – Nov 30) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -656,6 +657,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Must-Have Plugins](https://musthaveplugins.com/offer/) | WordPress plugin bundle | 💸 **Up to 70% OFF** | ✅ |
 | [WP User Frontend Pro](https://wedevs.com/wp-user-frontend-pro/pricing/) | Frontend post submission & membership for WordPress | 💸 **Up to 50% OFF** — Lifetime $398 | ✅ |
 | [FormNX](https://formnx.com/) | No-code WordPress form builder | 💸 **50% OFF** | ✅ |
+| [MilliCache Pro](https://www.millipress.com/millicache-pro/) | Full-page caching for WordPress in memory and at the edge, clears only what changed | **25% OFF** first year — code `BF26` (Nov 24 – Dec 1) | ✅ |
 
 ### No-Code Platforms
 
@@ -787,6 +789,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [SparkFun](https://www.sparkfun.com/) | Electronics dev boards, GNSS & IoT kits | **15% OFF** SparkFun Originals — code `BFCM2026` (Nov 23–30) | ✅ |
 | [Bambu Lab](https://us.store.bambulab.com/) | 3D printers (P1S, X1E, A1 series) | BF pricing on all printers (through Dec 1) | ✅ |
 | [Prusa](https://www.prusa3d.com/) | 3D printers & filament | **Up to 40% OFF** Prusament + free gifts with printers (through Nov 30) | ✅ |
+| [Deeper Connect Air](https://shop.deeper.network/pages/black-friday-air) | Decentralized VPN hardware router (no subscription) | **$100 OFF** $374 → $274 — code `QMDXY` | ✅ |
 
 ## 💰 Finance & Business
 
