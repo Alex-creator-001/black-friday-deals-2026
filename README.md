@@ -337,6 +337,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Transcrybe](https://transcrybe.app/) | Live translated subtitles for Mac microphone or any app | 💸 ♾️ **50% OFF** one-time $29.99 → $14.99 (Nov 16 – Dec 2) | ✅ |
 | [LogicBalls](https://logicballs.com/) | AI writing & marketing content generation tools | 💸 **50% OFF** — code `BF2026` ($9.99 → $5/mo, through Dec 15) | ✅ |
 | [Aikeedo](https://aikeedo.com/) | Self-hosted white-label AI SaaS platform (chat, images, video, voice) | 💸 **50% OFF** Core 12mo + Commercial License (Nov 24 – Dec 1) | ✅ |
+| [FortuneTellerOnline](https://www.fortunetelleronline.app/#pricing) | Free AI fortune teller for tarot, love, career & yes-or-no readings | 💸 **90% OFF** all plans + 10x bonus credits, auto-applied, no code (Nov 20 - Dec 31) | ✅ |
 
 ### AI Image & Video
 
