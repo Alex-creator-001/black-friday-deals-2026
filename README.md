@@ -616,7 +616,6 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Xero](https://www.xero.com/) | Cloud accounting & invoicing | **90% OFF** for 4 months | ✅ |
 | [QuickBooks Online](https://quickbooks.intuit.com/) | Small business accounting | 💸 **70% OFF** for 3 months, all plans (new customers) — ends Nov 29 | ✅ |
 | [FreshBooks](https://www.freshbooks.com/) | Freelancer accounting | **80% OFF** 4 months — Lite $4.60/mo, Plus $8.60/mo, Premium $14/mo (Oct 14 – Dec 31) | ✅ |
-| [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection & alerts for crypto traders | **40% OFF** Pro monthly for the next 3 paid months — $23.40 USD/month, then $39 USD/month. Auto-applied; coupon if needed: `BLACKFRIDAY2026`. Ends Nov 30, 2026 at 11:59 p.m. CET. | Pending review |
 
 ### CRM & Sales
 
@@ -642,6 +641,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [YNAB](https://www.ynab.com/) | Budgeting app | **50% OFF** annual | ✅ |
 | [TradingView](https://www.tradingview.com/) | Charting & trading platform | **Up to 70% OFF** Premium | ⏳ |
 | [SoFi Invest](https://www.sofi.com/) | Investment platform | **$50 cash back** + up to $1,000 in stock (new account) | ✅ |
+| [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection & alerts for crypto traders | **40% OFF** Pro monthly for the next 3 paid months — $23.40 USD/month, then $39 USD/month. Auto-applied; coupon if needed: `BLACKFRIDAY2026`. Ends Nov 30, 2026 at 11:59 p.m. CET. | ✅ |
 
 ## 🎬 Streaming & Entertainment
 
