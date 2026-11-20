@@ -442,6 +442,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Roomtape](https://extensions.loopspec.com/roomtape) | Record Google Meet/Teams calls to local MP4 — no bot joins the call | 💸 ♾️ **69% OFF** Lifetime $29 → $9 (Nov 5 – Dec 2) | ✅ |
 | [Noota](https://www.noota.io/) | AI meeting recorder, notes & follow-up emails | **40% OFF** annual Pro/Business (through Nov 30) | ✅ |
 | [MotionShine](https://motionshine.com/) | macOS screen recorder with auto-zoom, cursors & captions | 💸 **50% OFF** every paid plan — code `BF50` (through Dec 5) | ✅ |
+| [Tutti](https://tutti.barrybarrywu.com/#pricing) | Native macOS menu bar app for multi-output audio, per-app volume, and display controls | ♾️ **30.8% OFF** Pro one-time for one Mac (US$12.99 → US$8.99), no code needed (Nov 20 – Nov 30, 2026 (ends 23:59 PST)) | ✅ |
 
 ### Automation
 
