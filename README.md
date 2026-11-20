@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-375-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-381-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 375 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 381 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 20 (PM6)** — Merged 6 community PRs (#49–#55, #59): ViralReel, Clarpex AI (AI image/video), FastScribe (AI transcription), APIKO (dev tools), Tutti (productivity), Liite Lifetime Bundle (no-code). 381 total deals.
 - **Nov 20 (PM5)** — Added 25 new deals: 1bench, Fixa, Karve, Perch (dev tools), AppSecD, PortDroid, TinyShield (security), Pixara, Krea3 AI, RewriteBar, Podwise (AI), ZxClip, Roomtape, MotionShine (productivity), Plerdy (SEO), Sender (email), Inkfree (eSignature), more. Flipped Wireshark Labs + Xbox ⏳→✅. Updated ElevenLabs deal. 372 total deals.
 - **Nov 20 (PM4)** — Merged 7 community PRs (#38–#44): Devkito (dev tools), SecretShot (privacy), TranslateManga (AI), 3DRoomDesign.ai (design), Sabi (CRM), Oil Studio + Deletti (photo/video), Nutrify + Nomu + Meanwhile (wellness). 347 total deals.
 - **Nov 20 (PM3)** — Added KodeKloud, Udacity, Design Gurus (courses), Linux Foundation certs, DreamHost, HostGator (hosting), Squarespace, Thrive Themes, Windscribe VPN, Internxt, Standard Notes, Runway, GTmetrix, Safe Screen Share. Updated WP Rocket with 3-yr code. 337 total deals.
@@ -328,6 +329,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Krea3 AI](https://krea3.org/) | AI portraits, product shots & posters from prompts/photos | **40% OFF** first year (Starter $149 → $89.40) (Nov 1 – Nov 30) | ✅ |
 | [Krumzi](https://www.krumzi.com/pricing) | Editable flyers, posts, carousels & video from a one-line description | 💸 **60% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
 | [ViralReel](https://www.viralreel.app/pricing) | AI photo-to-short-video tool using templates inspired by social media trends | **Up to 30% OFF** one-time credit packs — auto-applied, no code (Popular 180 credits US$16.00, was US$19.90; Creator 480 credits US$28.00, was US$39.90) (Nov 20 – Nov 30, 2026) | ✅ |
+| [Clarpex AI](https://clarpex.ai/pricing) | AI photo fixer: unblur, upscale to 4K/8K, restore & colorize old photos, remove watermarks (web) | 💸 **50% OFF** first month of monthly plans, **30% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
