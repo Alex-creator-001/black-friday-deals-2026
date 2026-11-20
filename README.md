@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-374-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-375-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 374 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 375 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -324,6 +324,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [TranslateManga](https://translatemanga.net/) | AI manga/manhwa/webtoon translator — text inside original speech bubbles (web + Chrome extension) | **40% OFF** plans from $6/mo, no code (billed yearly, first year; Nov 20 – Dec 1) | ✅ |
 | [Pixara](https://www.pixara.ai/) | AI image, video & voiceover workspace (multi-model) | 💸 **70% OFF** PRO & Ultimate annual | ✅ |
 | [Krea3 AI](https://krea3.org/) | AI portraits, product shots & posters from prompts/photos | **40% OFF** first year (Starter $149 → $89.40) (Nov 1 – Nov 30) | ✅ |
+| [Krumzi](https://www.krumzi.com/pricing) | Editable flyers, posts, carousels & video from a one-line description | 💸 **60% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
