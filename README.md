@@ -527,6 +527,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Picmal](https://picmal.app/) | Batch image resizer & optimizer for Mac | 💸 **50% OFF** from $14.50 — code `BLACKFRIDAY` | ✅ |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | Minimal image editor for Mac | **43% OFF** — $3.99 one-time | ✅ |
 | [Paletteo](https://apps.apple.com/us/app/paletteo-color-palette-maker/id6762087665) | Capture colors, build palettes and gradients, and export design tokens from iPhone or iPad | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary) — code `ARTSVITBF20` (through Nov 30 Pacific; first 500 redemptions per app) | ✅ |
+| [Linger](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed (Nov 19 – Dec 1, 2026, 23:59 PST) | ✅ |
 
 ### SEO & Marketing
 
