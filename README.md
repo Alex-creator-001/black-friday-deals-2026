@@ -697,6 +697,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [YNAB](https://www.ynab.com/) | Budgeting app | **50% OFF** annual | ✅ |
 | [TradingView](https://www.tradingview.com/) | Charting & trading platform | **Up to 70% OFF** Premium | ⏳ |
 | [SoFi Invest](https://www.sofi.com/) | Investment platform | **$50 cash back** + up to $1,000 in stock (new account) | ✅ |
+| [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection & alerts for crypto traders | **40% OFF** Pro monthly for the next 3 paid months — $23.40 USD/month, then $39 USD/month. Auto-applied; coupon if needed: `BLACKFRIDAY2026`. Ends Nov 30, 2026 at 11:59 p.m. CET. | ✅ |
 | [Cashculator](https://cashculator.app/) | Personal finance tracker for Mac | 💸 ♾️ **50% OFF** Lifetime $130 → $65 (through Nov 30) | ✅ |
 | [SubsDay](https://subsday.appps.od.ua/) | Subscription calendar for macOS & iOS with App Store import & spending insights | ♾️ **40% OFF** Single Lifetime $19.99 → $11.99, Family $26.99 → $15.99 — code `BLKFR2026` (Nov 15 – Dec 1) | ✅ |
 
