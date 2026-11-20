@@ -501,6 +501,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Bubble](https://bubble.io/) | No-code full-stack builder | Discount expected | ⏳ |
 | [Siter.io](https://siter.io/) | No-code website builder with visual editor | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 | [App14](https://app14.appetite.studio/black-friday) | Done-for-you custom iOS & Android app, built and submitted in 14 days 🇬🇧 | **75% OFF** — Starter £3,999 → £999, Advanced £6,999 → £1,999, no code needed (until Nov 30) | ✅ |
+| [Liite Lifetime Bundle](https://liite.co/lifetime) | Liite Pro (AI page builder, custom domain) plus lifetime licenses for SmartSpreadsheets, PicBolt Pro, UtilBolt, Picify and MacSuite (14 Mac apps) | 💸 ♾️ **83% OFF** — **$249 one-time** vs $1,444 separately, no code needed (first 500 bundles, until Nov 30) | ✅ |
 
 ## 🎮 Gaming
 
