@@ -325,6 +325,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Pixara](https://www.pixara.ai/) | AI image, video & voiceover workspace (multi-model) | 💸 **70% OFF** PRO & Ultimate annual | ✅ |
 | [Krea3 AI](https://krea3.org/) | AI portraits, product shots & posters from prompts/photos | **40% OFF** first year (Starter $149 → $89.40) (Nov 1 – Nov 30) | ✅ |
 | [Krumzi](https://www.krumzi.com/pricing) | Editable flyers, posts, carousels & video from a one-line description | 💸 **60% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
+| [ViralReel](https://www.viralreel.app/pricing) | AI photo-to-short-video tool using templates inspired by social media trends | **Up to 30% OFF** one-time credit packs — auto-applied, no code (Popular 180 credits US$16.00, was US$19.90; Creator 480 credits US$28.00, was US$39.90) (Nov 20 – Nov 30, 2026) | ✅ |
 
 ### AI SEO & Marketing
 
