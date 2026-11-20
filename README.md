@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-337-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-347-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 337 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 347 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 20 (PM4)** — Merged 7 community PRs (#38–#44): Devkito (dev tools), SecretShot (privacy), TranslateManga (AI), 3DRoomDesign.ai (design), Sabi (CRM), Oil Studio + Deletti (photo/video), Nutrify + Nomu + Meanwhile (wellness). 347 total deals.
 - **Nov 20 (PM3)** — Competitor cross-reference round 2 (thuongtin, techiescamp, tushargugnani, thoughtcook): added KodeKloud, Udacity, Design Gurus (courses), Linux Foundation certs, DreamHost, HostGator (hosting), Squarespace, Thrive Themes, Windscribe VPN, Internxt, Standard Notes, Runway, GTmetrix, Safe Screen Share. Updated WP Rocket with 3-yr code. 337 total deals.
 - **Nov 20 (PM2)** — Competitor cross-reference (v3nomtech, Pimjo, s1ntoneli): added DevUtils, ShellHistory, TelemetryDeck, HackUtilities (dev tools), ClipAudit, Scanify (security), MuteDeck (productivity). 315 total deals.
 - **Nov 20 (PM)** — Added 7 new deals: DynoTable, JuxtaCode, CostGoat (dev tools), Keeper Security, Malwarebytes (security), Designmodo (design), Parallels Desktop (productivity). 308 total deals.
@@ -143,6 +144,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Skillry](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex & Cursor | 💸 ♾️ **50% OFF** Pro ($9.99 first mo / $79 first yr) + **$169** Lifetime (was $249) — auto-applied (Nov 19–30) | ✅ |
 | [Unspam](https://unspam.email/) | Email spam checker & deliverability tests | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 | [GTmetrix](https://gtmetrix.com/) | Website performance testing & monitoring | **40% OFF** all plans — code `BF2026` (through Dec 2) | ✅ |
+| [Devkito](https://devkito.com/pricing) | 122 offline developer tools in one desktop app (macOS, Windows, Linux) | 💸 **50% OFF** one-time licence ($10 → $5) — code `BF2026` (Nov 20 – Dec 2) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -222,6 +224,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Internxt](https://internxt.com/) | Privacy-first E2E encrypted cloud storage | 💸 **87% OFF** — from €1.29/mo, Lifetime from €247 (through Dec 3) | ✅ |
 | [Standard Notes](https://standardnotes.com/) | E2E encrypted notes app (open source) | 💸 **50% OFF** annual plans | ✅ |
 | [ExposureDrift](https://exposuredrift.com) | Continuous attack surface management: JS secret scanning, outside-in API inventory, exposure monitoring | 💸 **50% OFF** a full year + 15-day risk-free trial — early-user pre-launch offer, launches Dec 14 | ✅ |
+| [SecretShot](https://secretshot.zorrinapps.com/) | Private photo/video vault disguised as a calculator, currency converter, or puzzle (iPhone) | **50% OFF** Pro Lifetime ($29.99 → $14.99) — code `BFCM26` (through Dec 1) | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
@@ -301,6 +304,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Higgsfield](https://higgsfield.ai/) | AI video generation (Ultra plan) | **60% OFF** annual — $50/mo (reg $129) | ✅ |
 | [Colossyan](https://www.colossyan.com/) | AI video generation with realistic avatars | **40% OFF** yearly — code `BLACKFRIDAY40` | ✅ |
 | [Runway](https://runwayml.com/) | AI video generation & editing | **25% OFF** annual plans | ✅ |
+| [TranslateManga](https://translatemanga.net/) | AI manga/manhwa/webtoon translator — text inside original speech bubbles (web + Chrome extension) | **40% OFF** plans from $6/mo, no code (billed yearly, first year; Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
@@ -375,6 +379,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Lineicons](https://lineicons.com/) | 30,000+ vector icons in 10 styles | **40% OFF** — code `BLFCM2026` (Nov 18 – Dec 2) | ✅ |
 | [Sip](https://sipapp.io/) | macOS color picker for designers & developers | **50% OFF** — code `BLACKFRIDAY26` (Nov 27 – Nov 29) | ✅ |
 | [Designmodo](https://designmodo.com/) | Email & web design platform (Postcards, Slides) | **Up to 40% OFF** — code `BLACKFRIDAY35` (through Dec 3) | ✅ |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | AI interior design — draw floor plans, convert to 3D, visualize rooms | **50% bonus credits** on one-time packs + **up to 300 extra credits** first month for new subscribers, auto-applied (Nov 17–27) | ✅ |
 
 ### SEO & Marketing
 
@@ -593,6 +598,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Pipedrive](https://www.pipedrive.com/) | Sales CRM & pipeline | **35% OFF** annual | ✅ |
 | [HubSpot](https://www.hubspot.com/) | CRM, marketing, sales | **Up to 45-50% OFF** annual | ⏳ |
 | [Zoho CRM](https://www.zoho.com/) | Small-mid business CRM | **Up to 25% OFF** annual | ⏳ |
+| [Sabi](https://meetsabi.com/pages/blackfriday) | AI assistant you text — email, calendar, lead follow-up, social posts | 💸 **50% OFF** 6 months Pro ($995 → $495), no code (Nov 20 – Nov 30) | ✅ |
 
 ### E-Signature
 
@@ -639,6 +645,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Topaz Labs](https://www.topazlabs.com/sale) | AI photo/video enhancement | **Up to 67% OFF** bundles, 15% OFF annual single apps — Studio $299/yr (reg $499), existing users all apps $99/yr (through Dec 1) | ✅ |
 | [Skylum Luminar](https://skylum.com/) | AI photo editor (renamed from Luminar Neo) | **Up to 77% OFF** — $99 Desktop / $139 All Platforms / $159 Max (through Nov 30) | ✅ |
 | [Capture One Pro](https://www.captureone.com/) | RAW processor | ~20-30% OFF (Nov 20–27) | ⏳ |
+| [Oil Studio](https://studio.oiloil.org/en/) | Native macOS screen recorder & video editor with click auto-zoom and local Whisper transcripts | **20% OFF** launch price ($39 → $31.20, reg $49, one-time) — code `BFCM2026` (Nov 20 – Dec 2) | ✅ |
+| [Deletti](https://deletti.app/) | Free up iPhone space — start with biggest videos/photos, swipe to keep or trash | **50% OFF** Lifetime ($17.99 → $8.99) — code `BFCM26` (through Dec 1) | ✅ |
 
 ## 🏋️ Health, Fitness & Lifestyle
 
@@ -681,6 +689,9 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Headspace](https://www.headspace.com/) | Meditation & mindfulness | **50% OFF** first year (~$34.99) — Nov 12 – Dec 4 | ✅ |
 | [Calm](https://www.calm.com/) | Sleep & meditation | **40-50% OFF** | ⏳ |
 | [DeskRest](https://deskrest.app/) | Break reminder for healthy screen habits | 💸 **80% OFF** lifetime — code `BLACKFRIDAY80` | ✅ |
+| [Nutrify](https://nutrifytracker.com/) | AI calorie tracker — snap a photo to log calories & macros (iPhone + Android) | 💸 **60% OFF** first year ($49.99 → $19.99) · Lifetime $79 (reg $99), no code (Nov 20 – Dec 30) | ✅ |
+| [Nomu](https://www.tappect.com/get/nomu) | Intermittent fasting timer — 16:8, 18:6, OMAD (iPhone, Apple Watch, Android) | **57% OFF** first year ($29.99 → $12.99) · Lifetime $29.99 (reg $49.99), no code (Nov 20 – Dec 30) | ✅ |
+| [Meanwhile](https://www.tappect.com/get/meanwhile) | Couple & BFF photo widget — share a photo each hour on each other's home screen | 💸 **Up to 84% OFF** first year Pro (from $7.99, reg $49.99) — Early Supporter offer (until Dec 31) | ✅ |
 
 ---
 
