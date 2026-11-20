@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-375-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-381-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 375 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 381 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,17 +36,18 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
-- **Nov 20 (PM5)** — Competitor cross-reference round 3 (trungdq88, twf-nikhila, tubeagentkit, v3nomtech): added 25 deals including 1bench, Fixa, Karve, Perch (dev tools), AppSecD, PortDroid, TinyShield (security), Pixara, Krea3 AI, RewriteBar, Podwise (AI), ZxClip, Roomtape, MotionShine (productivity), Plerdy (SEO), Sender (email), Inkfree (eSignature), more. Flipped Wireshark Labs + Xbox ⏳→✅. Updated ElevenLabs deal. 372 total deals.
+- **Nov 20 (PM6)** — Merged 6 community PRs (#49–#55, #59): ViralReel, Clarpex AI (AI image/video), FastScribe (AI transcription), APIKO (dev tools), Tutti (productivity), Liite Lifetime Bundle (no-code). 381 total deals.
+- **Nov 20 (PM5)** — Added 25 new deals: 1bench, Fixa, Karve, Perch (dev tools), AppSecD, PortDroid, TinyShield (security), Pixara, Krea3 AI, RewriteBar, Podwise (AI), ZxClip, Roomtape, MotionShine (productivity), Plerdy (SEO), Sender (email), Inkfree (eSignature), more. Flipped Wireshark Labs + Xbox ⏳→✅. Updated ElevenLabs deal. 372 total deals.
 - **Nov 20 (PM4)** — Merged 7 community PRs (#38–#44): Devkito (dev tools), SecretShot (privacy), TranslateManga (AI), 3DRoomDesign.ai (design), Sabi (CRM), Oil Studio + Deletti (photo/video), Nutrify + Nomu + Meanwhile (wellness). 347 total deals.
-- **Nov 20 (PM3)** — Competitor cross-reference round 2 (thuongtin, techiescamp, tushargugnani, thoughtcook): added KodeKloud, Udacity, Design Gurus (courses), Linux Foundation certs, DreamHost, HostGator (hosting), Squarespace, Thrive Themes, Windscribe VPN, Internxt, Standard Notes, Runway, GTmetrix, Safe Screen Share. Updated WP Rocket with 3-yr code. 337 total deals.
-- **Nov 20 (PM2)** — Competitor cross-reference (v3nomtech, Pimjo, s1ntoneli): added DevUtils, ShellHistory, TelemetryDeck, HackUtilities (dev tools), ClipAudit, Scanify (security), MuteDeck (productivity). 315 total deals.
+- **Nov 20 (PM3)** — Added KodeKloud, Udacity, Design Gurus (courses), Linux Foundation certs, DreamHost, HostGator (hosting), Squarespace, Thrive Themes, Windscribe VPN, Internxt, Standard Notes, Runway, GTmetrix, Safe Screen Share. Updated WP Rocket with 3-yr code. 337 total deals.
+- **Nov 20 (PM2)** — Added DevUtils, ShellHistory, TelemetryDeck, HackUtilities (dev tools), ClipAudit, Scanify (security), MuteDeck (productivity). 315 total deals.
 - **Nov 20 (PM)** — Added 7 new deals: DynoTable, JuxtaCode, CostGoat (dev tools), Keeper Security, Malwarebytes (security), Designmodo (design), Parallels Desktop (productivity). 308 total deals.
 - **Nov 20** — Merged 2 community PRs: #29 App14 (No-Code), #30 Exploit Pack suite (4 offensive security tools). Flipped Yubico ⏳→✅ (15% OFF YubiKey series, live now). 297 total deals.
-- **Nov 19 (PM2)** — Cross-ref trungdq88 repo: added Proxyman, TablePlus, Colossyan, PDF Pals, Superlist, Craft, Sip, DeskRest. 294 total deals.
-- **Nov 19 (PM)** — Competitor cross-reference: added 15 deals from InfoSec & dev BF repos (CyberGhost, IPVanish, PureVPN, Proton Mail, Tuta, Yubico, Hak5, Hexordia, Iximiuz Labs, Porkbun, GL.iNet, UGREEN NAS, ByteByteGo, Tailwind Plus, Polypane). 286 total deals.
+- **Nov 19 (PM2)** — Added Proxyman, TablePlus, Colossyan, PDF Pals, Superlist, Craft, Sip, DeskRest. 294 total deals.
+- **Nov 19 (PM)** — Added 15 new deals: CyberGhost, IPVanish, PureVPN, Proton Mail, Tuta, Yubico, Hak5, Hexordia, Iximiuz Labs, Porkbun, GL.iNet, UGREEN NAS, ByteByteGo, Tailwind Plus, Polypane. 286 total deals.
 - **Nov 19 (AM2)** — Merged 3 community PRs: Relaybrook, Dar Templates, BundleWP. Flipped Educative.io ⏳→✅ (BF sale confirmed live). Added OffSec Learn One (20% OFF OSCP+ training). 272 total deals.
 - **Nov 19** — Big update pass: flipped 5 deals ⏳→✅ (DataCamp 60% OFF, Scalenut 65% OFF, Pictory 50% OFF, CodedThemes 60% OFF, Ableton 20% OFF + free Live 13 upgrade). Added 7 new deals: Abstract API, FormBold, DocuGenerate, Higgsfield, Coupler.io, 1minAI. Updated Whoop details. Amazon & Best Buy BF events now live. 266 total deals.
-- **Nov 18** — Merged 4 community PRs + 7 new deals from competitor cross-reference (Tower, Pulsetic, JSON2Video, Wins, Chronoid, AI Toolbox, Atmos). Added region filters (🇺🇸 🇬🇧 🇮🇳 🇨🇦 🇪🇺 🇩🇪 🇦🇺) and student 🎓 filter to website. Flipped ⏳→✅: Nintendo Switch 2 bundle, Garmin Forerunner 265. Deduplicated 11 entries appearing in multiple categories. 260 total deals.
+- **Nov 18** — Merged 4 community PRs + added 7 new deals (Tower, Pulsetic, JSON2Video, Wins, Chronoid, AI Toolbox, Atmos). Added region filters (🇺🇸 🇬🇧 🇮🇳 🇨🇦 🇪🇺 🇩🇪 🇦🇺) and student 🎓 filter to website. Flipped ⏳→✅: Nintendo Switch 2 bundle, Garmin Forerunner 265. Deduplicated 11 entries appearing in multiple categories. 260 total deals.
 - **Nov 17** — 13 cybersec training deals added: CyberWarFare Labs (91% OFF!), Blue Cape Security, MalDev Academy, HackTricks Training, Practical TLS (83% OFF lifetime), Wireshark Labs, White Knight Labs, RedTeamLeaders, Blu Raven Academy, Just Hacking, OnlySecurity, Modern Security AI Cert + Nintendo Switch 2 bundle
 - **Nov 17** — 5 community PRs merged: Perisclaw, Outpublished, Faivelo, Refine, Paste
 - **Nov 17** — Adobe Creative Cloud BF sale confirmed: 57% OFF All Apps ($29.99/mo first year)
@@ -54,7 +55,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 - **Nov 17** — QuickBooks 70% OFF confirmed, Paramount+ 50% OFF annual with code `SAVEANNUAL50`
 - **Nov 17** — TCM Security sale live: 20% OFF certs, 50% OFF Academy membership
 - **Nov 17** — AirPods Pro 3 now $179 ($70 off), Apple Watch Series 12 from $329
-- **Nov 15** — 16 new deals added from cross-referencing competitor repos: TypingMind, BoltAI, MindPal, Rezi, Proxyman, SaaSykit, Piloterr, Poedit, Wireless Operator, AppSec.training, Vibe App Scanner, anon.li, Koofr, FindExams, LS Graphics, Lineicons
+- **Nov 15** — 16 new deals added: TypingMind, BoltAI, MindPal, Rezi, Proxyman, SaaSykit, Piloterr, Poedit, Wireless Operator, AppSec.training, Vibe App Scanner, anon.li, Koofr, FindExams, LS Graphics, Lineicons
 - **Nov 15** — OffSeq security suite (5 tools) and SaaSBold confirmed live
 - **Nov 15** — 3 community deals merged: Wovo (50% OFF), CleanClip (30% OFF), ScreenSage Pro (up to 53% OFF)
 - **Nov 15** — Topaz Labs Black Friday sale confirmed live: up to 67% OFF bundles, 15% OFF annual single-app plans (through Dec 1)
@@ -154,6 +155,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension for web devs: inspect, edit, test, debug | ♾️ **30% OFF** Lifetime $99 → $69.30 (Nov 20+) | ✅ |
 | [1DevTool](https://1devtool.com/) | Desktop workbench for AI coding agents (Claude Code, Codex, Gemini CLI) | 💸 **50% OFF** one-time $29 → $14.50 — code `BFDEALS50` (Nov 19 – Nov 29) | ✅ |
 | [Device MCP](https://devicemcp.ai/) | Mirror & control iPhone/iPad from Mac with MCP tools for AI agents | **30% OFF** — code `BF2026` (Nov 19 – Dec 3) | ✅ |
+| [APIKO](https://apiko.app/) | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | **10% extra API credits on every paid top-up** — pay $100, get $110 in credits, auto-applied. Ends Nov 27, 2026 at 11:59 p.m. Pacific Time. | ✅ |
 | [TeaGo](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) | Browse repositories, review pull requests, and track issues on self-hosted Gitea or Forgejo from iPhone and iPad | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary) — code `ARTSVITBF20` (through Nov 30 Pacific; first 500 redemptions per app) | ✅ |
 | [Open Pi - Raspberry Pi Manager](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) | Monitor Raspberry Pi health and manage Docker, files, GPIO, and SSH from Mac, iPhone or iPad | **About 20% OFF** Single Lifetime (US$5.99 → US$4.79; local prices vary) — code `ARTSVITBF20` (through Nov 30 Pacific; first 500 redemptions per app) | ✅ |
 
@@ -310,6 +312,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Perisclaw](https://perisclaw.com/pricing) | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks | **40% OFF** annual plan ($200 → $120/yr), no code needed (Nov 27 – Dec 1) | ⏳ |
 | [1minAI](https://1min.ai/) | Multi-model AI platform (GPT, Claude, Gemini) | 💸 **86% OFF** Advanced Business Lifetime | ✅ |
 | [PDF Pals](https://pdfpals.com/) | AI-powered PDF reader and chat | ♾️ **Lifetime $149**; 20% OFF Basic/Plus — code `BF20` | ✅ |
+| [FastScribe](https://fastscribe.org/pricing) | Web app for audio/video and social-link transcription, subtitles and AI summaries. | **$31 off** Pro first year: $89 (normally $120/year), then $120/year; 6,500 bonus credits valid 365 days. Accounts without an active subscription only; no code needed. (Nov 17–30, 2026; ends 11:59 PM Pacific) | ✅ |
 
 ### AI Image & Video
 
@@ -327,6 +330,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Pixara](https://www.pixara.ai/) | AI image, video & voiceover workspace (multi-model) | 💸 **70% OFF** PRO & Ultimate annual | ✅ |
 | [Krea3 AI](https://krea3.org/) | AI portraits, product shots & posters from prompts/photos | **40% OFF** first year (Starter $149 → $89.40) (Nov 1 – Nov 30) | ✅ |
 | [Krumzi](https://www.krumzi.com/pricing) | Editable flyers, posts, carousels & video from a one-line description | 💸 **60% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
+| [ViralReel](https://www.viralreel.app/pricing) | AI photo-to-short-video tool using templates inspired by social media trends | **Up to 30% OFF** one-time credit packs — auto-applied, no code (Popular 180 credits US$16.00, was US$19.90; Creator 480 credits US$28.00, was US$39.90) (Nov 20 – Nov 30, 2026) | ✅ |
+| [Clarpex AI](https://clarpex.ai/pricing) | AI photo fixer: unblur, upscale to 4K/8K, restore & colorize old photos, remove watermarks (web) | 💸 **50% OFF** first month of monthly plans, **30% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
@@ -444,6 +449,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Roomtape](https://extensions.loopspec.com/roomtape) | Record Google Meet/Teams calls to local MP4 — no bot joins the call | 💸 ♾️ **69% OFF** Lifetime $29 → $9 (Nov 5 – Dec 2) | ✅ |
 | [Noota](https://www.noota.io/) | AI meeting recorder, notes & follow-up emails | **40% OFF** annual Pro/Business (through Nov 30) | ✅ |
 | [MotionShine](https://motionshine.com/) | macOS screen recorder with auto-zoom, cursors & captions | 💸 **50% OFF** every paid plan — code `BF50` (through Dec 5) | ✅ |
+| [Tutti](https://tutti.barrybarrywu.com/#pricing) | Native macOS menu bar app for multi-output audio, per-app volume, and display controls | ♾️ **30.8% OFF** Pro one-time for one Mac (US$12.99 → US$8.99), no code needed (Nov 20 – Nov 30, 2026 (ends 23:59 PST)) | ✅ |
 
 ### Automation
 
@@ -504,6 +510,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Bubble](https://bubble.io/) | No-code full-stack builder | Discount expected | ⏳ |
 | [Siter.io](https://siter.io/) | No-code website builder with visual editor | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 | [App14](https://app14.appetite.studio/black-friday) | Done-for-you custom iOS & Android app, built and submitted in 14 days 🇬🇧 | **75% OFF** — Starter £3,999 → £999, Advanced £6,999 → £1,999, no code needed (until Nov 30) | ✅ |
+| [Liite Lifetime Bundle](https://liite.co/lifetime) | Liite Pro (AI page builder, custom domain) plus lifetime licenses for SmartSpreadsheets, PicBolt Pro, UtilBolt, Picify and MacSuite (14 Mac apps) | 💸 ♾️ **83% OFF** — **$249 one-time** vs $1,444 separately, no code needed (first 500 bundles, until Nov 30) | ✅ |
 
 ## 🎮 Gaming
 
