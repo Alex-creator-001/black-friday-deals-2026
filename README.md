@@ -154,6 +154,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension for web devs: inspect, edit, test, debug | ♾️ **30% OFF** Lifetime $99 → $69.30 (Nov 20+) | ✅ |
 | [1DevTool](https://1devtool.com/) | Desktop workbench for AI coding agents (Claude Code, Codex, Gemini CLI) | 💸 **50% OFF** one-time $29 → $14.50 — code `BFDEALS50` (Nov 19 – Nov 29) | ✅ |
 | [Device MCP](https://devicemcp.ai/) | Mirror & control iPhone/iPad from Mac with MCP tools for AI agents | **30% OFF** — code `BF2026` (Nov 19 – Dec 3) | ✅ |
+| [APIKO](https://apiko.app/) | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | **10% extra API credits on every paid top-up** — pay $100, get $110 in credits, auto-applied. Ends Nov 27, 2026 at 11:59 p.m. Pacific Time. | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
