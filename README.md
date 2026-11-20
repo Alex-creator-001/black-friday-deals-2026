@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-429-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-432-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 429 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 432 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -360,6 +360,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [inReels](https://www.inreels.ai/) | AI ad creative platform: UGC videos, static ads, product videos | 💸 **50% OFF** all yearly plans — code `BLACKFRIDAY2026` (through Dec 1) | ✅ |
 | [Vinaa](https://www.vinaa.ai/) | AI video editor with auto-caption, translate & lip-sync | **45% OFF** lifetime, no code (until Nov 30) | ✅ |
 | [Cutfac](https://cutfac.com/) | Create & refine short videos with Claude Code or Codex on Mac | **40% OFF** one-time — code `BF2026` (through Dec 31) | ✅ |
+| [quso.ai](https://quso.ai/pricing) | AI video repurposing: long videos into captioned short clips, schedule & auto-post | 💸 **50% OFF** yearly plans, kept every renewal — no code (Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
