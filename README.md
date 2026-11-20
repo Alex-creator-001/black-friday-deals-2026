@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2020%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-432-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-434-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 432 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 434 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -488,6 +488,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Gramcheck](https://extensions.loopspec.com/gramcheck) | On-device grammar checker for Chrome (no data upload) | 💸 **51% OFF** lifetime $39 → $19 (Nov 5 – Dec 2) | ✅ |
 | [Ubidrop](https://www.ubidrop.com/) | AirDrop between Mac and Android/iPhone | 💸 **60% OFF** — code `BLACKFRIDAY2026` (through Dec 1) | ✅ |
 | [SyncSignature](https://syncsignature.com/) | Email signature management for Google Workspace & Microsoft 365 | 💸 **50% OFF** Teams: 2 years for price of 1 ($180/24mo), no code (Nov 10 – Dec 4) | ✅ |
+| [DeskMinder](https://deskminder.appps.od.ua/) | Quick desktop reminders & task timer for Mac | ♾️ **43% OFF** Lifetime $6.99 → $3.99 — code `BLKFR2026` (Nov 15 – Dec 1) | ✅ |
 
 ### Automation
 
@@ -697,6 +698,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [TradingView](https://www.tradingview.com/) | Charting & trading platform | **Up to 70% OFF** Premium | ⏳ |
 | [SoFi Invest](https://www.sofi.com/) | Investment platform | **$50 cash back** + up to $1,000 in stock (new account) | ✅ |
 | [Cashculator](https://cashculator.app/) | Personal finance tracker for Mac | 💸 ♾️ **50% OFF** Lifetime $130 → $65 (through Nov 30) | ✅ |
+| [SubsDay](https://subsday.appps.od.ua/) | Subscription calendar for macOS & iOS with App Store import & spending insights | ♾️ **40% OFF** Single Lifetime $19.99 → $11.99, Family $26.99 → $15.99 — code `BLKFR2026` (Nov 15 – Dec 1) | ✅ |
 
 ## 🎬 Streaming & Entertainment
 
