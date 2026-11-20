@@ -174,6 +174,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Mailflare](https://mailflare.co/) | Self-hosted email & calendar on Cloudflare or Docker | **40% OFF** — code `BF2026` (Nov 20 – Dec 1) | ✅ |
 | [Pirsch Analytics](https://pirsch.io/) | Privacy-friendly GDPR-compliant web analytics | **20% OFF** first year — code `BLACKFRIDAY26` (through Dec 31) | ✅ |
 | [Typeform](https://www.typeform.com/) | Conversational forms, surveys and quizzes | **20% OFF** annual plans | ✅ |
+| [TeaGo](https://apps.apple.com/us/app/teago-for-gitea/id6805488091) | Browse repositories, review pull requests, and track issues on self-hosted Gitea or Forgejo from iPhone and iPad | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary) — code `ARTSVITBF20` (through Nov 30 Pacific; first 500 redemptions per app) | ✅ |
+| [Open Pi - Raspberry Pi Manager](https://apps.apple.com/us/app/id6762019524) | Monitor Raspberry Pi health and manage Docker, files, GPIO, and SSH from Mac, iPhone or iPad | **About 20% OFF** Single Lifetime (US$5.99 → US$4.79; local prices vary) — code `ARTSVITBF20` (through Nov 30 Pacific; first 500 redemptions per app) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -438,6 +440,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Designmodo](https://designmodo.com/) | Email & web design platform (Postcards, Slides) | **Up to 40% OFF** — code `BLACKFRIDAY35` (through Dec 3) | ✅ |
 | [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | AI interior design — draw floor plans, convert to 3D, visualize rooms | **50% bonus credits** on one-time packs + **up to 300 extra credits** first month for new subscribers, auto-applied (Nov 17–27) | ✅ |
 | [Rindraw](https://rindraw.com/) | Drawing, painting & animation for iPad/iPhone/Mac (.procreate/.psd support) | 💸 **50% OFF** $12.99 → $6.49 (Nov 27 – Dec 1) | ✅ |
+| [Paletteo](https://apps.apple.com/us/app/paletteo-color-palette-maker/id6762087665) | Capture colors, build palettes and gradients, and export design tokens from iPhone or iPad | **About 20% OFF** Single Lifetime (US$4.99 → US$3.99; local prices vary) — code `ARTSVITBF20` (through Nov 30 Pacific; first 500 redemptions per app) | ✅ |
 
 ### SEO & Marketing
 
