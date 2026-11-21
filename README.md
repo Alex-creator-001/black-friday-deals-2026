@@ -415,6 +415,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Slashspace](https://www.slashspace.ai/) | AI writing workspace with templates & team collaboration | 💸 ♾️ **51% OFF** Lifetime $249 → $122 — code `BF2026` | ✅ |
 | [SmartyTab](https://smartytab.app/) | AI browser assistant for summarizing & researching any page | ♾️ **30% OFF** Lifetime $99 → $69.30 | ✅ |
 | [Tidio Lyro AI](https://www.tidio.com/black-friday/) | AI chatbot for customer support automation | **$1/mo** introductory offer (first 2 months) | ✅ |
+| [Enconvo](https://enconvo.com) | Native AI assistant & agent for Mac: automates your apps, dictates, searches documents, runs cloud or local models | ♾️ **30% OFF** Lifetime $59 → $41.30 (Premium $119 → $83.30, Teams $159 → $111.30) + 30% OFF first Cloud payment, auto-applied, no code (Nov 20 – Dec 7) | ✅ |
 
 ### AI Image & Video
 
