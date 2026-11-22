@@ -416,6 +416,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [SmartyTab](https://smartytab.app/) | AI browser assistant for summarizing & researching any page | ♾️ **30% OFF** Lifetime $99 → $69.30 | ✅ |
 | [Tidio Lyro AI](https://www.tidio.com/black-friday/) | AI chatbot for customer support automation | **$1/mo** introductory offer (first 2 months) | ✅ |
 | [Enconvo](https://enconvo.com) | Native AI assistant & agent for Mac: automates your apps, dictates, searches documents, runs cloud or local models | ♾️ **30% OFF** Lifetime $59 → $41.30 (Premium $119 → $83.30, Teams $159 → $111.30) + 30% OFF first Cloud payment, auto-applied, no code (Nov 20 – Dec 7) | ✅ |
+| [ScribeToAny](https://scribetoany.com/pricing) | Audio/video files and links to transcripts, SRT/VTT subtitles & AI summaries (~98 languages, web) | **30% OFF** first month — code `FIRST_30_OFF`, or **$20 OFF** first year — code `FIRST_20_OFF`, plus bonus minutes (Nov 17 – Nov 30) | ✅ |
 
 ### AI Image & Video
 
