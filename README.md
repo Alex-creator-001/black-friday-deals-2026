@@ -216,6 +216,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [LurkAPI](https://lurkapi.com/pricing) | Social media data API and MCP server (public posts, ads and profiles from 16 platforms) | **30% OFF** any credit pack — code `BLACKFRIDAY30` (Nov 20 – Nov 30) | ✅ |
 | [SerpWrap](https://serpwrap.com) | SERP API returning structured JSON from live search results; pay-once credits, no subscription | 💸 **40% OFF** every credit pack, code `BLACKF40` (through Nov 30) | ✅ |
 | [SaaScaffold](https://saascaffold.com/pricing) | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment & 4 AI providers | 💸 ♾️ **50% OFF** one-time license ($99 → $49), auto-applied (Nov 21 – Dec 6) | ✅ |
+| [Waitlyze](https://waitlyze.com/pricing) | Waitlist software with referral rewards, launch email automation, and signup analytics | 💸 **40% OFF** Pro Annual for the first year ($119 → $71.40), code `BFCM2026`; renews at $119/year (Nov 22 – Dec 3) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
