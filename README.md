@@ -613,6 +613,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [SupaSidebar](https://supasidebar.com/) | macOS sidebar with AI-powered file search & quick actions | 💸 ♾️ **50% OFF** Lifetime $79 → $39.50 — code `SIDEBARBF50` | ✅ |
 | [WhatPulse](https://whatpulse.org/) | Input analytics: keyboard, mouse & network stats | **35% OFF** all plans — code `BFCM2026` (Nov 26 – Dec 12) | ✅ |
 | [Unraster](https://unraster.ai/pricing) | Turn slide, chart and diagram screenshots into editable PowerPoint or SVG | **45% OFF** the 150-credit pack ($79.90 → $43.95) — code `BLACKFRIDAY45` (through Dec 1) | ✅ |
+| [Helix](https://tryhelix.app/?utm_source=github&utm_campaign=shashankt255-bf) | Radial menu for Mac: hold Option + Space and your tools pop up in a circle | **30% OFF** one-time for 2 Macs ($9 → $6.30) — code `BLACKFRIDAY30` (Nov 20 – Dec 1) | ✅ |
 
 ### Automation
 
