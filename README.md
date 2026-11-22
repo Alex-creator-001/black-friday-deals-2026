@@ -213,6 +213,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Appfigures](https://appfigures.com/) | ASO & app intelligence for App Store & Google Play: competitor keywords, download & revenue estimates | 💸 **50% OFF** monthly or annual plans for 12 months — code `BF2650` (Nov 23 – Nov 30) | ✅ |
 | [LurkAPI](https://lurkapi.com/pricing) | Social media data API and MCP server (public posts, ads and profiles from 16 platforms) | **30% OFF** any credit pack — code `BLACKFRIDAY30` (Nov 20 – Nov 30) | ✅ |
 | [SerpWrap](https://serpwrap.com) | SERP API returning structured JSON from live search results; pay-once credits, no subscription | 💸 **40% OFF** every credit pack, code `BLACKF40` (through Nov 30) | ✅ |
+| [SaaScaffold](https://saascaffold.com/pricing) | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment & 4 AI providers | 💸 ♾️ **50% OFF** one-time license ($99 → $49), auto-applied (Nov 21 – Dec 6) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -363,7 +364,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
-| [Namecheap](https://www.namecheap.com/) | .com + free WHOIS privacy for life | **Up to 97% OFF** bundles | ⏳ |
+| [Namecheap](https://www.namecheap.com/) | .com + free WHOIS privacy for life | **Up to 99% OFF** domains — code `THEGAMESTLD26`, hosting code `THEGAMESHOST26` (Nov 20 – Dec 4) | ✅ |
 | [Cloudflare Registrar](https://www.cloudflare.com/) | Domains at wholesale cost | No sale — always at cost ($11.17 .com) | ℹ️ |
 | [Koofr](https://koofr.eu/) | EU privacy-focused cloud storage (GDPR) | **55% OFF** — code `BF2026` | ✅ |
 | [Porkbun](https://porkbun.com/) | Domain registrar with rolling BF deals | New deal drops Nov 19, 23, 27 (through Dec 4) | ✅ |
@@ -446,6 +447,10 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [InVideo](https://invideo.io/) | AI video creation platform | 💸 **50% OFF** | ✅ |
 | [Vogoo AI](https://vogoo.ai/black-friday) | AI avatar video generation for marketing & sales | **40% OFF** Pro annual — $89.64/yr | ✅ |
 | [ConceptViz](https://conceptviz.app/pricing) | AI scientific figures & diagrams for researchers: concept maps, schematics and paper figures from text | ♾️ **Lifetime $299** one-time, no code — 1,500 permanent credits, commercial license included (through Dec 1) | ✅ |
+| [SpriteCanvas](https://spritecanvas.com/pricing/) | AI sprite sheet generator for 2D game characters, PNG + JSON export | **30% OFF** first month of Starter or Pro monthly ($8.40 / $20.30), first subscription only, no code (through Dec 1) | ✅ |
+| [Motionflare](https://motionflare.ai/pricing) | Turns your website URL into an on-brand marketing video | 💸 **50% OFF** the first month of Pro or Max ($29 → $14.50, $99 → $49.50), no code (Nov 21 – Dec 1) | ✅ |
+| [MakeMidas](https://makemidas.com/pricing) | AI image, video & music generator with GPT Image, Nano Banana, Veo, Kling and Suno (web, one credit balance) | **Up to 25% more credits** on every one-time credit pack (125 credits per $1, $10 → 1,250 instead of 1,000) — auto-applied, no code (Nov 20 – Dec 1) | ✅ |
+| [Comik AI](https://comik.ai/pricing) | Story-driven AI anime studio: anime images, comics, motion comics and AI Short Dramas with reusable characters | **45% OFF** yearly plans, or **35% OFF** first month of Pro/Max monthly — no code, auto-applied (Nov 20 – Nov 30) | ✅ |
 
 ### AI SEO & Marketing
 
@@ -474,7 +479,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Coursera Plus](https://www.coursera.org/) | 7,000+ courses all-access | **40% OFF** annual — $239.40/yr (reg $399, ends Nov 30) | ✅ |
 | [DataCamp](https://www.datacamp.com/) | Data science, Python, R, SQL | **60% OFF** Premium annual — $132/yr (reg $330, through Nov 29) | ✅ |
 | [Educative.io](https://www.educative.io/) | Interactive text-based coding courses | **72% OFF** unlimited plans | ✅ |
-| [Codecademy Pro](https://www.codecademy.com/) | Interactive coding lessons | **50% OFF** Pro Annual (Nov 21 – Dec 28) | ⏳ |
+| [Codecademy Pro](https://www.codecademy.com/) | Interactive coding lessons | 💸 **60% OFF** Pro Annual & Student plans — code `BF2026` (Nov 19 – Dec 28) | ✅ |
 | [Pluralsight](https://www.pluralsight.com/) | Tech skills (cloud, security, dev) | ~50% OFF | ⏳ |
 | [MasterClass](https://www.masterclass.com/) | Celebrity-taught classes | **50% OFF** | ⏳ |
 | [ByteByteGo](https://bytebytego.com/) | System design interview prep by Alex Xu | **50% OFF** annual | ✅ |
@@ -655,7 +660,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [SEOAnt](https://seoant.com/) | SEO optimization plugin | **50% OFF** all plans | ✅ |
 | [ZipWP](https://zipwp.com/) | AI WordPress website builder (from Astra team) | **Up to 47% OFF** all plans, from $79 (Nov 5 – Dec 7) | ✅ |
 | [GutSlider Pro](https://gutslider.com/) | WordPress Gutenberg slider block | **40% OFF** lifetime from $69, no code (Nov 5 – Dec 1) | ✅ |
-| [Elementor Pro](https://elementor.com/) | Drag-and-drop page builder | **Up to 65% OFF** | ⏳ |
+| [Elementor Pro](https://elementor.com/) | Drag-and-drop page builder | **Up to 40% OFF** Editor Pro & Elementor One (Nov 17 – Dec 1) | ✅ |
 | [WPForms](https://wpforms.com/) | Form builder | **Up to 70% OFF** all licenses (Nov 24 – Dec 2) | ⏳ |
 | [Crocoblock](https://crocoblock.com/) | JetPlugins suite for Elementor & Gutenberg | 💸 **50% OFF** lifetime — code `bfcroco2026` | ✅ |
 | [Gravity Forms](https://gravityforms.com/) | WordPress form builder | **40% OFF** Elite & Flow Ultimate | ✅ |
@@ -668,6 +673,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [WP User Frontend Pro](https://wedevs.com/wp-user-frontend-pro/pricing/) | Frontend post submission & membership for WordPress | 💸 **Up to 50% OFF** — Lifetime $398 | ✅ |
 | [FormNX](https://formnx.com/) | No-code WordPress form builder | 💸 **50% OFF** | ✅ |
 | [MilliCache Pro](https://www.millipress.com/millicache-pro/) | Full-page caching for WordPress in memory and at the edge, clears only what changed | **25% OFF** first year — code `BF26` (Nov 24 – Dec 1) | ✅ |
+| [WPOS](https://wpos.ai/black-friday/) | AI agent inside wp-admin for WordPress sites on any host (Gutenberg, Elementor, Divi) | 💸 **50% OFF** site licences for 2 months ($25 → $12.50/site/mo) + 15,000 free credits for new accounts — code `FRIDAY50` (Nov 11 – Nov 30) | ✅ |
 
 ### No-Code Platforms
 
@@ -848,7 +854,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | Disney+ & Hulu Bundle (With Ads) | Movies, shows, originals | ~$4.99/mo for 12 months (reg ~$12.99) | ⏳ |
-| Apple TV+ | Apple original content | $5.99/mo for 6 months (reg $12.99) | ⏳ |
+| [Apple TV+](https://tv.apple.com/) | Apple original content | **$6.99/mo** Black Friday deal (reg $12.99) | ✅ |
 | [Paramount+](https://www.paramountplus.com/) | CBS/Paramount streaming | 💸 **50% OFF** Premium annual ($69.99/yr, reg $139.99) — code `SAVEANNUAL50` | ✅ |
 | [Audible](https://www.audible.com/) | Audiobook subscription | 💸 **$0.99/mo** for 3 months + $20 credit (reg $8.99/mo) — ends Dec 28 | ✅ |
 | Kindle Unlimited | Unlimited ebook reading | **$0.99** for 3 months (reg $11.99/mo) | ⏳ |
@@ -861,7 +867,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [DaVinci Resolve Studio](https://www.blackmagicdesign.com/) | Pro video editor + color grading | **20% OFF** ($236, reg $295) — ends Nov 20 | ✅ |
 | [Plugin Boutique](https://www.pluginboutique.com/) | Plugin marketplace | **Up to 95% OFF** select plugins | ✅ |
 | [Ableton Live 12](https://www.ableton.com/) | Professional DAW | **20% OFF** all licenses + free upgrade to Live 13 — Standard €223 (through Jan 1) | ✅ |
-| [Native Instruments Komplete](https://www.native-instruments.com/) | Instruments & sample libraries | **50-70% OFF** bundles | ⏳ |
+| [Native Instruments Komplete](https://www.native-instruments.com/) | Instruments & sample libraries | 💸 **50% OFF** Cyber Sale 2026 — plugins, bundles & upgrades | ✅ |
 | [Waves Plugins](https://www.waves.com/) | Audio plugins | **BF Month Sale** — 200 plugins, 3 for $49.99 / 6 for $99.98 (through Nov 26) | ✅ |
 
 ### Photo & Video Editing
