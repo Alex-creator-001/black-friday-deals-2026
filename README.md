@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2022%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-570-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-577-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 557 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 577 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,7 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
-- **Nov 23** — Flipped Humble Bundle (up to 90% OFF) and TradingView (up to 80% OFF) ⏳→✅. 570 total deals.
+- **Nov 23** — Flipped Humble Bundle (up to 90% OFF), TradingView (up to 80% OFF), and Udemy ($9.99 courses) ⏳→✅. Merged 4 community PRs (#86–#89): Waitlyze (dev tools), AY Tenders + AY Grants (finance), Helix (productivity), Itemlist + QRGenie + BarcodeCraft (productivity). 577 total deals.
 - **Nov 22** — Merged 13 community PRs (#72–#85) + issue #79: BatchMark, ConceptViz, Unraster, SpriteCanvas, Motionflare, Directory Ideas, 8kSec Academy, SerpWrap, Pitchlist, WPOS, Options Matrix Pro, SaaScaffold, ScribeToAny, MakeMidas, Comik AI. Flipped 5 deals ⏳→✅: Codecademy Pro (60% OFF), Namecheap (up to 99% OFF), Elementor Pro (40% OFF), Apple TV+ ($6.99/mo), Native Instruments Komplete (50% OFF). 570 total deals.
 - **Nov 20 (PM11)** — Cross-ref round 7: 46 new deals from 4 repos — Private Internet Access, Aster Mail, Presend (security), ChemiCloud, FlyWP, Database Mart (hosting), ChatPlayground AI, Fluent 2, Slashspace, SmartyTab, Supacite, Voibe, Wiredesk, Blip AI Pro, Tidio Lyro AI, Vogoo AI (AI tools), VMPal, React PDF Kit, TCP Viewer, Runestone, SQLPro Studio, Aba Search and Replace (dev tools), Pimosa, SmoothCapture, ScreenVerb, Smooth Recorder, Compresto, Picmal, PAPLO (design), BlogToPin, SocialPilot, SmartReach, Sponsonizer, Airbridge, Quotion (marketing), ShiftPlus, Clipboard Manager Pro, Tidix, Deckloud, MouseUp, Todowing, Y-Pod, Spacepal, SupaSidebar, WhatPulse (productivity), Sequenzy (email), Plugin Wizards, Must-Have Plugins, WP User Frontend Pro, FormNX, Systeme.io, HextaUI Pro, Durable (WordPress/no-code). 553 total deals.
 - **Nov 20 (PM10)** — Cross-ref round 6: 21 new deals from indie app & dev repos — DevWorkspace Pro, WhaleDeck, Gadwal, SuperDev Pro, Layerwise, RapidForm, Outmano, ScreenSnap Pro, PastePal, Iruka, Swiper Studio, Meku (dev tools), Aymo AI, POSH, Nivon (AI), SetLatch, ScreenShield, MojoAuth (security), Static.run (hosting), WP Foreman (WordPress), IvaBoard (productivity). 507 total deals.
@@ -478,7 +478,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [Flavio Copes](https://flaviocopes.com/black-friday/) | AI Workshop + 4 coding masterclasses | Sale opens **Nov 23** | ✅ |
-| [Udemy](https://www.udemy.com/) | Massive course catalog | Courses from **$9.99** (up to 85% off, ~Nov 25–28) | ⏳ |
+| [Udemy](https://www.udemy.com/) | Massive course catalog | Courses from **$9.99** (up to 85% off, Nov 19 – Nov 30) | ✅ |
 | [Coursera Plus](https://www.coursera.org/) | 7,000+ courses all-access | **40% OFF** annual — $239.40/yr (reg $399, ends Nov 30) | ✅ |
 | [DataCamp](https://www.datacamp.com/) | Data science, Python, R, SQL | **60% OFF** Premium annual — $132/yr (reg $330, through Nov 29) | ✅ |
 | [Educative.io](https://www.educative.io/) | Interactive text-based coding courses | **72% OFF** unlimited plans | ✅ |
@@ -613,7 +613,10 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [SupaSidebar](https://supasidebar.com/) | macOS sidebar with AI-powered file search & quick actions | 💸 ♾️ **50% OFF** Lifetime $79 → $39.50 — code `SIDEBARBF50` | ✅ |
 | [WhatPulse](https://whatpulse.org/) | Input analytics: keyboard, mouse & network stats | **35% OFF** all plans — code `BFCM2026` (Nov 26 – Dec 12) | ✅ |
 | [Unraster](https://unraster.ai/pricing) | Turn slide, chart and diagram screenshots into editable PowerPoint or SVG | **45% OFF** the 150-credit pack ($79.90 → $43.95) — code `BLACKFRIDAY45` (through Dec 1) | ✅ |
-| [Helix](https://tryhelix.app/?utm_source=github&utm_campaign=shashankt255-bf) | Radial menu for Mac: hold Option + Space and your tools pop up in a circle | **30% OFF** one-time for 2 Macs ($9 → $6.30) — code `BLACKFRIDAY30` (Nov 20 – Dec 1) | ✅ |
+| [Helix](https://tryhelix.app/) | Radial menu for Mac: hold Option + Space and your tools pop up in a circle | **30% OFF** one-time for 2 Macs ($9 → $6.30) — code `BLACKFRIDAY30` (Nov 20 – Dec 1) | ✅ |
+| [Itemlist](https://www.getitemlist.app/black-friday/) | Home inventory for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime PRO: $29.99, down from $59.99, no code needed (Nov 18 – Dec 4) | ✅ |
+| [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac | 💸 ♾️ **50% OFF** lifetime: $9.99, down from $19.99, no code needed (Nov 18 – Dec 4) | ✅ |
+| [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime: $4.99, down from $9.99, no code needed (Nov 18 – Dec 4) | ✅ |
 
 ### Automation
 
