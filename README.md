@@ -829,6 +829,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Zoho CRM](https://www.zoho.com/) | Small-mid business CRM | **Up to 25% OFF** annual | ⏳ |
 | [Sabi](https://meetsabi.com/pages/blackfriday) | AI assistant you text — email, calendar, lead follow-up, social posts | 💸 **50% OFF** 6 months Pro ($995 → $495), no code (Nov 20 – Nov 30) | ✅ |
 | [Pitchlist](https://pitchlist.serpwrap.com) | Local business leads by city and type with phone, address and rating (CSV, XLSX, JSON); Claude Code integration support; pay once | 💸 **60% OFF** every lead pack, code `BLACKFRIDAY60` (through Nov 30) | ✅ |
+| [AY Tenders](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts | 💸 **50% OFF** first month on monthly plans — Tenders $19 → $9.50, Tenders + Grants $24 → $12, auto-applied, no code, then normal price (Nov 22 – Nov 30) | ✅ |
 
 ### E-Signature
 
@@ -849,6 +850,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Cashculator](https://cashculator.app/) | Personal finance tracker for Mac | 💸 ♾️ **50% OFF** Lifetime $130 → $65 (through Nov 30) | ✅ |
 | [SubsDay](https://subsday.appps.od.ua/) | Subscription calendar for macOS & iOS with App Store import & spending insights | ♾️ **40% OFF** Single Lifetime $19.99 → $11.99, Family $26.99 → $15.99 — code `BLKFR2026` (Nov 15 – Dec 1) | ✅ |
 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | **50% OFF** every plan: first year on annual, first 3 months on monthly. No code needed (Nov 23 to 30, 2026). | ⏳ |
+| [AY Grants](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts | 💸 **50% OFF** first month on the monthly plan — $9 → $4.50, auto-applied, no code, then normal price (Nov 22 – Nov 30) | ✅ |
 
 ## 🎬 Streaming & Entertainment
 
