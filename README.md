@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 23** — Flipped Humble Bundle (up to 90% OFF) and TradingView (up to 80% OFF) ⏳→✅. 570 total deals.
 - **Nov 22** — Merged 13 community PRs (#72–#85) + issue #79: BatchMark, ConceptViz, Unraster, SpriteCanvas, Motionflare, Directory Ideas, 8kSec Academy, SerpWrap, Pitchlist, WPOS, Options Matrix Pro, SaaScaffold, ScribeToAny, MakeMidas, Comik AI. Flipped 5 deals ⏳→✅: Codecademy Pro (60% OFF), Namecheap (up to 99% OFF), Elementor Pro (40% OFF), Apple TV+ ($6.99/mo), Native Instruments Komplete (50% OFF). 570 total deals.
 - **Nov 20 (PM11)** — Cross-ref round 7: 46 new deals from 4 repos — Private Internet Access, Aster Mail, Presend (security), ChemiCloud, FlyWP, Database Mart (hosting), ChatPlayground AI, Fluent 2, Slashspace, SmartyTab, Supacite, Voibe, Wiredesk, Blip AI Pro, Tidio Lyro AI, Vogoo AI (AI tools), VMPal, React PDF Kit, TCP Viewer, Runestone, SQLPro Studio, Aba Search and Replace (dev tools), Pimosa, SmoothCapture, ScreenVerb, Smooth Recorder, Compresto, Picmal, PAPLO (design), BlogToPin, SocialPilot, SmartReach, Sponsonizer, Airbridge, Quotion (marketing), ShiftPlus, Clipboard Manager Pro, Tidix, Deckloud, MouseUp, Todowing, Y-Pod, Spacepal, SupaSidebar, WhatPulse (productivity), Sequenzy (email), Plugin Wizards, Must-Have Plugins, WP User Frontend Pro, FormNX, Systeme.io, HextaUI Pro, Durable (WordPress/no-code). 553 total deals.
 - **Nov 20 (PM10)** — Cross-ref round 6: 21 new deals from indie app & dev repos — DevWorkspace Pro, WhaleDeck, Gadwal, SuperDev Pro, Layerwise, RapidForm, Outmano, ScreenSnap Pro, PastePal, Iruka, Swiper Studio, Meku (dev tools), Aymo AI, POSH, Nivon (AI), SetLatch, ScreenShield, MojoAuth (security), Static.run (hosting), WP Foreman (WordPress), IvaBoard (productivity). 507 total deals.
@@ -514,7 +515,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [No Starch Press](https://nostarch.com/) | Security, Linux, Python, hacking books | **~42% OFF** everything | ⏳ |
 | [Packt Publishing](https://www.packtpub.com/) | 7,500+ tech eBooks & videos | **50% OFF** eBooks | ⏳ |
 | [Manning](https://www.manning.com/) | LiveBook, MEAP early access | **45% OFF** daily deals running now | ⏳ |
-| [Humble Bundle](https://www.humblebundle.com/) | Tech book bundles | Bundles ~$15-25 for 15+ books | ⏳ |
+| [Humble Bundle](https://www.humblebundle.com/) | Games, books & software bundles | **Up to 90% OFF** PC games — FF7 Rebirth $7.50, Choice members extra 20% off | ✅ |
 
 ## 🎨 Design & Productivity
 
@@ -841,7 +842,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [YNAB](https://www.ynab.com/) | Budgeting app | **50% OFF** annual | ✅ |
-| [TradingView](https://www.tradingview.com/) | Charting & trading platform | **Up to 70% OFF** Premium | ⏳ |
+| [TradingView](https://www.tradingview.com/) | Charting & trading platform | **Up to 80% OFF** annual plans + 1 free month (Nov 23 – Dec 1) | ✅ |
 | [SoFi Invest](https://www.sofi.com/) | Investment platform | **$50 cash back** + up to $1,000 in stock (new account) | ✅ |
 | [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection & alerts for crypto traders | **40% OFF** Pro monthly for the next 3 paid months — $23.40 USD/month, then $39 USD/month. Auto-applied; coupon if needed: `BLACKFRIDAY2026`. Ends Nov 30, 2026 at 11:59 p.m. CET. | ✅ |
 | [Cashculator](https://cashculator.app/) | Personal finance tracker for Mac | 💸 ♾️ **50% OFF** Lifetime $130 → $65 (through Nov 30) | ✅ |
