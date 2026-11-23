@@ -229,6 +229,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [KloudUtils](https://kloudutils.com/) | 55+ developer utilities in one app | **38% OFF** ($79 → $49) — code `BFCM2026_PRO` | ✅ |
 | [Captureze](https://captureze.com/) | Scheduled website screenshots with visual diff tracking | 💸 **Up to 50% OFF** all plans | ✅ |
 | [Warplet](https://warplet.app/) | Connect hosted AI to local MCP servers | **40% OFF** — code `BLACKFRIDAY2026` | ✅ |
+| [DataCheck](https://datacheck.cc/en/pricing) | Rule-driven duplicate & anomaly checks for research tables with source-cell evidence (Web & Windows) | ♾️ **30% OFF** one-time packs (HK$116 → HK$81.20+) & perpetual desktop licenses (HK$15,288 → HK$10,701.60+), auto-applied, no code needed (Nov 23 – Dec 5) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
